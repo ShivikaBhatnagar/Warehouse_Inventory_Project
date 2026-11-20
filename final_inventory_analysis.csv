@@ -1,0 +1,598 @@
+Product_ID,Product_Name,Category,Warehouse,Stock_Quantity,Reorder_Level,Daily_Demand,Lead_Time_Days,Unit_Price,Supplier,Inventory_Value,Stock_Coverage_Days,Lead_Time_Demand,Stock_Risk
+1001,Laptop,Electronics,Hyderabad,62.0,43.0,4.0,12.0,54463.15,BlueStar Supplies,3376715.3000000003,15.5,48.0,Medium Risk
+1002,Wireless Mouse,Accessories,Bengaluru,117.0,44.0,5.0,8.0,694.63,BlueStar Supplies,81271.71,23.4,40.0,Low Risk
+1003,Keyboard,Accessories,Hyderabad,111.0,177.0,29.0,7.0,1137.98,Delta Wholesale,126315.78,3.8275862068965516,203.0,High Risk
+1004,LED Monitor,Electronics,Hyderabad,347.0,205.0,29.0,9.0,12663.75,Apex Traders,4394321.25,11.96551724137931,261.0,Medium Risk
+1005,Laser Printer,Electronics,Pune,178.0,370.0,30.0,12.0,9168.32,Apex Traders,1631960.96,5.933333333333334,360.0,High Risk
+1006,USB Cable,Accessories,Noida,637.0,265.0,34.0,7.0,166.81,Delta Wholesale,106257.97,18.735294117647058,238.0,Low Risk
+1007,External Hard Drive,Accessories,Pune,80.0,26.0,18.0,2.0,5081.97,Crown Distributors,406557.60000000003,4.444444444444445,36.0,Low Risk
+1008,RAM Module,Computer Parts,Pune,225.0,201.0,33.0,7.0,2779.54,BlueStar Supplies,625396.5,6.818181818181818,231.0,High Risk
+1009,Wi-Fi Router,Networking,Mumbai,50.0,47.0,17.0,3.0,2705.96,Reliable Goods,135298.0,2.9411764705882355,51.0,High Risk
+1010,Headphones,Accessories,Pune,159.0,68.0,16.0,4.0,1623.45,Prime Logistics,258128.55000000002,9.9375,64.0,Low Risk
+1011,Webcam,Accessories,Mumbai,517.0,169.0,16.0,12.0,2400.74,Metro Components,1241182.5799999998,32.3125,192.0,Low Risk
+1012,Bluetooth Speaker,Accessories,Pune,43.0,47.0,6.0,12.0,2244.61,Metro Components,96518.23000000001,7.166666666666667,72.0,High Risk
+1013,SSD Drive,Computer Parts,Noida,311.0,209.0,17.0,11.0,6302.29,Apex Traders,1960012.19,18.294117647058822,187.0,Low Risk
+1014,Mobile Charger,Accessories,Hyderabad,10.0,31.0,6.0,5.0,844.1,Evergreen Supply,8441.0,1.6666666666666667,30.0,High Risk
+1015,Tablet,Electronics,Bengaluru,74.0,45.0,4.0,11.0,22312.61,Prime Logistics,1651133.1400000001,18.5,44.0,Low Risk
+1016,Projector,Electronics,Mumbai,9.0,98.0,12.0,9.0,36328.51,Delta Wholesale,326956.59,0.75,108.0,High Risk
+1017,Microphone,Accessories,Delhi,1089.0,349.0,34.0,13.0,1800.31,Reliable Goods,1960537.5899999999,32.029411764705884,442.0,Low Risk
+1018,Power Bank,Accessories,Hyderabad,126.0,75.0,11.0,7.0,1709.02,Metro Components,215336.52,11.454545454545455,77.0,Low Risk
+1019,Smart Watch,Electronics,Mumbai,101.0,119.0,15.0,7.0,4869.98,Apex Traders,491867.98,6.733333333333333,105.0,High Risk
+1020,Barcode Scanner,Accessories,Hyderabad,104.0,44.0,4.0,12.0,3858.56,Evergreen Supply,401290.24,26.0,48.0,Low Risk
+1021,Pen Drive,Accessories,Noida,142.0,102.0,32.0,3.0,534.29,BlueStar Supplies,75869.18,4.4375,96.0,Medium Risk
+1022,Graphics Card,Computer Parts,Noida,207.0,95.0,11.0,10.0,25679.53,Apex Traders,5315662.71,18.818181818181817,110.0,Low Risk
+1023,Motherboard,Computer Parts,Pune,270.0,217.0,13.0,14.0,9909.99,Prime Logistics,2675697.3,20.76923076923077,182.0,Medium Risk
+1024,Cooling Fan,Computer Parts,Pune,385.0,178.0,33.0,5.0,444.53,Crown Distributors,171144.05,11.666666666666666,165.0,Low Risk
+1025,Network Adapter,Networking,Noida,5.0,14.0,4.0,3.0,835.71,Metro Components,4178.55,1.25,12.0,High Risk
+1026,HDMI Cable,Accessories,Delhi,250.0,108.0,12.0,12.0,325.68,Prime Logistics,81420.0,20.833333333333332,144.0,Low Risk
+1027,Office Chair,Office Supplies,Bengaluru,183.0,180.0,18.0,11.0,6631.19,Apex Traders,1213507.77,10.166666666666666,198.0,High Risk
+1028,Packing Tape,Packaging,Mumbai,58.0,206.0,23.0,10.0,80.1,Delta Wholesale,4645.799999999999,2.5217391304347827,230.0,High Risk
+1029,Shipping Box,Packaging,Delhi,97.0,35.0,8.0,6.0,45.95,Prime Logistics,4457.150000000001,12.125,48.0,Low Risk
+1030,Thermal Paper,Office Supplies,Bengaluru,97.0,34.0,7.0,5.0,115.59,Evergreen Supply,11212.23,13.857142857142858,35.0,Low Risk
+1031,Laptop,Electronics,Noida,27.0,26.0,11.0,2.0,55528.54,Apex Traders,1499270.58,2.4545454545454546,22.0,Medium Risk
+1032,Wireless Mouse,Accessories,Delhi,29.0,18.0,4.0,5.0,718.3,Evergreen Supply,20830.699999999997,7.25,20.0,Medium Risk
+1033,Keyboard,Accessories,Mumbai,434.0,123.0,19.0,8.0,1105.46,Prime Logistics,479769.64,22.842105263157894,152.0,Low Risk
+1034,LED Monitor,Electronics,Bengaluru,5.0,91.0,16.0,5.0,13688.48,BlueStar Supplies,68442.4,0.3125,80.0,High Risk
+1035,Laser Printer,Electronics,Pune,197.0,70.0,11.0,9.0,9001.21,BlueStar Supplies,1773238.3699999999,17.90909090909091,99.0,Low Risk
+1036,USB Cable,Accessories,Bengaluru,551.0,281.0,23.0,11.0,163.05,Reliable Goods,89840.55,23.956521739130434,253.0,Low Risk
+1037,External Hard Drive,Accessories,Bengaluru,57.0,91.0,34.0,4.0,4651.3,Crown Distributors,265124.10000000003,1.6764705882352942,136.0,High Risk
+1038,RAM Module,Computer Parts,Bengaluru,492.0,170.0,29.0,7.0,3104.35,Crown Distributors,1527340.2,16.96551724137931,203.0,Low Risk
+1039,Wi-Fi Router,Networking,Hyderabad,523.0,141.0,22.0,8.0,2390.72,Evergreen Supply,1250346.5599999998,23.772727272727273,176.0,Low Risk
+1040,Headphones,Accessories,Delhi,19.0,18.0,3.0,5.0,1859.8,Metro Components,35336.2,6.333333333333333,15.0,Medium Risk
+1041,Webcam,Accessories,Bengaluru,131.0,447.0,29.0,13.0,2198.39,Apex Traders,287989.08999999997,4.517241379310345,377.0,High Risk
+1042,Bluetooth Speaker,Accessories,Pune,321.0,141.0,27.0,6.0,1895.61,Metro Components,608490.8099999999,11.88888888888889,162.0,Low Risk
+1043,SSD Drive,Computer Parts,Mumbai,199.0,84.0,14.0,5.0,5638.66,Apex Traders,1122093.34,14.214285714285714,70.0,Low Risk
+1044,Mobile Charger,Accessories,Pune,173.0,285.0,29.0,13.0,870.27,Prime Logistics,150556.71,5.9655172413793105,377.0,High Risk
+1045,Tablet,Electronics,Pune,39.0,10.0,3.0,4.0,24491.24,Delta Wholesale,955158.3600000001,13.0,12.0,Low Risk
+1046,Projector,Electronics,Mumbai,54.0,82.0,18.0,7.0,36469.58,BlueStar Supplies,1969357.32,3.0,126.0,High Risk
+1047,Microphone,Accessories,Bengaluru,17.0,14.0,2.0,10.0,1988.58,Prime Logistics,33805.86,8.5,20.0,High Risk
+1048,Power Bank,Accessories,Delhi,88.0,166.0,21.0,7.0,1682.72,Metro Components,148079.36000000002,4.190476190476191,147.0,High Risk
+1049,Smart Watch,Electronics,Hyderabad,148.0,63.0,29.0,3.0,5364.8,Reliable Goods,793990.4,5.103448275862069,87.0,Low Risk
+1050,Barcode Scanner,Accessories,Bengaluru,48.0,34.0,11.0,3.0,4659.27,Crown Distributors,223644.96000000002,4.363636363636363,33.0,Medium Risk
+1051,Pen Drive,Accessories,Bengaluru,827.0,307.0,33.0,14.0,567.68,Prime Logistics,469471.36,25.060606060606062,462.0,Low Risk
+1052,Graphics Card,Computer Parts,Delhi,23.0,49.0,5.0,11.0,31689.03,Evergreen Supply,728847.69,4.6,55.0,High Risk
+1053,Motherboard,Computer Parts,Noida,127.0,110.0,7.0,14.0,11217.6,Prime Logistics,1424635.2,18.142857142857142,98.0,Medium Risk
+1054,Cooling Fan,Computer Parts,Noida,6.0,22.0,2.0,10.0,482.06,BlueStar Supplies,2892.36,3.0,20.0,High Risk
+1055,Network Adapter,Networking,Hyderabad,291.0,105.0,13.0,8.0,922.27,Crown Distributors,268380.57,22.384615384615383,104.0,Low Risk
+1056,HDMI Cable,Accessories,Hyderabad,50.0,40.0,15.0,3.0,310.94,Prime Logistics,15547.0,3.3333333333333335,45.0,Medium Risk
+1057,Office Chair,Office Supplies,Mumbai,62.0,61.0,11.0,7.0,6883.78,Prime Logistics,426794.36,5.636363636363637,77.0,High Risk
+1058,Packing Tape,Packaging,Noida,123.0,270.0,28.0,14.0,92.04,BlueStar Supplies,11320.92,4.392857142857143,392.0,High Risk
+1059,Shipping Box,Packaging,Delhi,265.0,80.0,8.0,12.0,49.55,Evergreen Supply,13130.75,33.125,96.0,Low Risk
+1060,Thermal Paper,Office Supplies,Bengaluru,23.0,20.0,7.0,4.0,108.93,Apex Traders,2505.3900000000003,3.2857142857142856,28.0,High Risk
+1061,Laptop,Electronics,Delhi,124.0,37.0,25.0,2.0,53137.47,Evergreen Supply,6589046.28,4.96,50.0,Low Risk
+1062,Wireless Mouse,Accessories,Pune,340.0,242.0,24.0,12.0,650.71,Reliable Goods,221241.40000000002,14.166666666666666,288.0,Medium Risk
+1063,Keyboard,Accessories,Mumbai,538.0,246.0,28.0,13.0,1030.5,BlueStar Supplies,554409.0,19.214285714285715,364.0,Medium Risk
+1064,LED Monitor,Electronics,Delhi,171.0,89.0,10.0,10.0,11147.76,Crown Distributors,1906266.96,17.1,100.0,Low Risk
+1065,Laser Printer,Electronics,Hyderabad,71.0,182.0,32.0,8.0,8478.47,Delta Wholesale,601971.37,2.21875,256.0,High Risk
+1066,USB Cable,Accessories,Mumbai,95.0,369.0,32.0,10.0,197.39,Reliable Goods,18752.05,2.96875,320.0,High Risk
+1067,External Hard Drive,Accessories,Bengaluru,271.0,160.0,12.0,12.0,5121.4,Metro Components,1387899.4,22.583333333333332,144.0,Low Risk
+1068,RAM Module,Computer Parts,Hyderabad,115.0,69.0,6.0,12.0,3040.29,Delta Wholesale,349633.35,19.166666666666668,72.0,Low Risk
+1069,Wi-Fi Router,Networking,Mumbai,141.0,195.0,27.0,7.0,2375.22,Delta Wholesale,334906.01999999996,5.222222222222222,189.0,High Risk
+1070,Headphones,Accessories,Bengaluru,85.0,53.0,17.0,4.0,1645.94,Crown Distributors,139904.9,5.0,68.0,Medium Risk
+1071,Webcam,Accessories,Pune,85.0,136.0,26.0,6.0,2187.88,Prime Logistics,185969.80000000002,3.269230769230769,156.0,High Risk
+1072,Bluetooth Speaker,Accessories,Noida,907.0,309.0,33.0,10.0,2013.49,Evergreen Supply,1826235.43,27.484848484848484,330.0,Low Risk
+1073,SSD Drive,Computer Parts,Pune,260.0,446.0,33.0,13.0,6248.69,Prime Logistics,1624659.4,7.878787878787879,429.0,High Risk
+1074,Mobile Charger,Accessories,Bengaluru,38.0,48.0,22.0,2.0,789.29,Metro Components,29993.019999999997,1.7272727272727273,44.0,High Risk
+1075,Tablet,Electronics,Bengaluru,668.0,170.0,18.0,13.0,19862.11,Evergreen Supply,13267889.48,37.111111111111114,234.0,Low Risk
+1076,Projector,Electronics,Hyderabad,57.0,272.0,25.0,9.0,35606.14,Reliable Goods,2029549.98,2.28,225.0,High Risk
+1077,Microphone,Accessories,Pune,112.0,84.0,7.0,12.0,2034.57,Reliable Goods,227871.84,16.0,84.0,Medium Risk
+1078,Power Bank,Accessories,Bengaluru,75.0,99.0,33.0,3.0,1444.5,Evergreen Supply,108337.5,2.272727272727273,99.0,High Risk
+1079,Smart Watch,Electronics,Bengaluru,0.0,27.0,7.0,4.0,5455.1,Metro Components,0.0,0.0,28.0,High Risk
+1080,Barcode Scanner,Accessories,Mumbai,478.0,236.0,19.0,11.0,4192.09,Evergreen Supply,2003819.02,25.157894736842106,209.0,Low Risk
+1081,Pen Drive,Accessories,Delhi,198.0,60.0,6.0,14.0,495.58,Delta Wholesale,98124.84,33.0,84.0,Low Risk
+1082,Graphics Card,Computer Parts,Pune,317.0,281.0,23.0,11.0,29671.22,Crown Distributors,9405776.74,13.782608695652174,253.0,Medium Risk
+1083,Motherboard,Computer Parts,Mumbai,643.0,374.0,26.0,13.0,10157.76,Evergreen Supply,6531439.68,24.73076923076923,338.0,Low Risk
+1084,Cooling Fan,Computer Parts,Bengaluru,34.0,53.0,12.0,6.0,497.1,Delta Wholesale,16901.4,2.8333333333333335,72.0,High Risk
+1085,Network Adapter,Networking,Bengaluru,82.0,169.0,26.0,6.0,994.21,Crown Distributors,81525.22,3.1538461538461537,156.0,High Risk
+1086,HDMI Cable,Accessories,Delhi,349.0,212.0,27.0,9.0,335.04,Metro Components,116928.96,12.925925925925926,243.0,Medium Risk
+1087,Office Chair,Office Supplies,Hyderabad,330.0,292.0,29.0,14.0,6713.84,Apex Traders,2215567.2,11.379310344827585,406.0,High Risk
+1088,Packing Tape,Packaging,Delhi,84.0,50.0,6.0,8.0,79.47,Delta Wholesale,6675.48,14.0,48.0,Low Risk
+1089,Shipping Box,Packaging,Noida,871.0,248.0,17.0,12.0,44.38,Apex Traders,38654.98,51.23529411764706,204.0,Low Risk
+1090,Thermal Paper,Office Supplies,Noida,242.0,98.0,11.0,8.0,108.78,Reliable Goods,26324.760000000002,22.0,88.0,Low Risk
+1091,Laptop,Electronics,Hyderabad,91.0,31.0,3.0,13.0,47088.12,Metro Components,4285018.92,30.333333333333332,39.0,Low Risk
+1092,Wireless Mouse,Accessories,Pune,135.0,70.0,34.0,2.0,586.11,Reliable Goods,79124.85,3.9705882352941178,68.0,Low Risk
+1093,Keyboard,Accessories,Delhi,81.0,47.0,30.0,2.0,1173.07,Prime Logistics,95018.67,2.7,60.0,Medium Risk
+1094,LED Monitor,Electronics,Delhi,43.0,16.0,8.0,2.0,11108.49,Apex Traders,477665.07,5.375,16.0,Low Risk
+1095,Laser Printer,Electronics,Pune,41.0,14.0,7.0,2.0,8903.9,Crown Distributors,365059.89999999997,5.857142857142857,14.0,Low Risk
+1096,USB Cable,Accessories,Delhi,25.0,169.0,30.0,5.0,198.48,Prime Logistics,4962.0,0.8333333333333334,150.0,High Risk
+1097,External Hard Drive,Accessories,Delhi,427.0,367.0,29.0,11.0,4456.45,Apex Traders,1902904.15,14.724137931034482,319.0,Medium Risk
+1098,RAM Module,Computer Parts,Delhi,99.0,72.0,6.0,11.0,2887.37,Prime Logistics,285849.63,16.5,66.0,Medium Risk
+1099,Wi-Fi Router,Networking,Mumbai,10.0,69.0,16.0,4.0,2456.95,Apex Traders,24569.5,0.625,64.0,High Risk
+1100,Headphones,Accessories,Delhi,588.0,203.0,25.0,8.0,1518.24,Evergreen Supply,892725.12,23.52,200.0,Low Risk
+1101,Webcam,Accessories,Pune,18.0,4.0,2.0,2.0,2119.57,Crown Distributors,38152.26,9.0,4.0,Low Risk
+1102,Bluetooth Speaker,Accessories,Bengaluru,33.0,74.0,5.0,12.0,2079.11,Prime Logistics,68610.63,6.6,60.0,High Risk
+1103,SSD Drive,Computer Parts,Delhi,133.0,99.0,10.0,10.0,6863.68,Evergreen Supply,912869.4400000001,13.3,100.0,Medium Risk
+1104,Mobile Charger,Accessories,Noida,133.0,82.0,11.0,7.0,880.44,Reliable Goods,117098.52,12.090909090909092,77.0,Low Risk
+1105,Tablet,Electronics,Noida,43.0,20.0,7.0,3.0,21863.61,BlueStar Supplies,940135.23,6.142857142857143,21.0,Low Risk
+1106,Projector,Electronics,Bengaluru,28.0,57.0,5.0,14.0,37172.04,Delta Wholesale,1040817.12,5.6,70.0,High Risk
+1107,Microphone,Accessories,Noida,708.0,250.0,27.0,9.0,1858.41,Prime Logistics,1315754.28,26.22222222222222,243.0,Low Risk
+1108,Power Bank,Accessories,Mumbai,222.0,105.0,9.0,14.0,1421.85,Delta Wholesale,315650.69999999995,24.666666666666668,126.0,Low Risk
+1109,Smart Watch,Electronics,Bengaluru,38.0,106.0,17.0,8.0,5586.82,Evergreen Supply,212299.15999999997,2.235294117647059,136.0,High Risk
+1110,Barcode Scanner,Accessories,Mumbai,437.0,234.0,25.0,9.0,4014.74,Prime Logistics,1754441.38,17.48,225.0,Low Risk
+1111,Pen Drive,Accessories,Bengaluru,185.0,106.0,13.0,9.0,531.61,Reliable Goods,98347.85,14.23076923076923,117.0,Low Risk
+1112,Graphics Card,Computer Parts,Hyderabad,477.0,255.0,18.0,12.0,31380.03,Evergreen Supply,14968274.309999999,26.5,216.0,Low Risk
+1113,Motherboard,Computer Parts,Mumbai,153.0,235.0,26.0,8.0,11350.2,Delta Wholesale,1736580.6,5.884615384615385,208.0,High Risk
+1114,Cooling Fan,Computer Parts,Pune,12.0,24.0,18.0,2.0,486.94,Apex Traders,5843.28,0.6666666666666666,36.0,High Risk
+1115,Network Adapter,Networking,Mumbai,29.0,17.0,4.0,5.0,859.8,Apex Traders,24934.199999999997,7.25,20.0,Medium Risk
+1116,HDMI Cable,Accessories,Noida,14.0,387.0,26.0,13.0,325.67,Crown Distributors,4559.38,0.5384615384615384,338.0,High Risk
+1117,Office Chair,Office Supplies,Delhi,150.0,75.0,25.0,3.0,6289.27,Evergreen Supply,943390.5000000001,6.0,75.0,Low Risk
+1118,Packing Tape,Packaging,Pune,197.0,73.0,33.0,2.0,85.92,Metro Components,16926.24,5.96969696969697,66.0,Low Risk
+1119,Shipping Box,Packaging,Bengaluru,183.0,58.0,6.0,11.0,39.72,Metro Components,7268.76,30.5,66.0,Low Risk
+1120,Thermal Paper,Office Supplies,Noida,138.0,65.0,8.0,11.0,110.38,Prime Logistics,15232.439999999999,17.25,88.0,Low Risk
+1121,Laptop,Electronics,Hyderabad,269.0,440.0,32.0,14.0,58119.21,Metro Components,15634067.49,8.40625,448.0,High Risk
+1122,Wireless Mouse,Accessories,Hyderabad,64.0,42.0,6.0,8.0,584.49,Prime Logistics,37407.36,10.666666666666666,48.0,Medium Risk
+1123,Keyboard,Accessories,Delhi,57.0,19.0,3.0,7.0,1015.76,BlueStar Supplies,57898.32,19.0,21.0,Low Risk
+1124,LED Monitor,Electronics,Mumbai,58.0,342.0,31.0,14.0,11876.18,Delta Wholesale,688818.4400000001,1.8709677419354838,434.0,High Risk
+1125,Laser Printer,Electronics,Delhi,12.0,289.0,34.0,9.0,8915.56,Prime Logistics,106986.72,0.35294117647058826,306.0,High Risk
+1126,USB Cable,Accessories,Pune,721.0,391.0,29.0,13.0,187.35,Prime Logistics,135079.35,24.862068965517242,377.0,Low Risk
+1127,External Hard Drive,Accessories,Bengaluru,98.0,38.0,22.0,2.0,4613.9,Reliable Goods,452162.19999999995,4.454545454545454,44.0,Low Risk
+1128,RAM Module,Computer Parts,Noida,251.0,193.0,29.0,6.0,3036.55,Evergreen Supply,762174.05,8.655172413793103,174.0,Medium Risk
+1129,Wi-Fi Router,Networking,Hyderabad,74.0,208.0,16.0,13.0,2500.53,Evergreen Supply,185039.22,4.625,208.0,High Risk
+1130,Headphones,Accessories,Hyderabad,373.0,166.0,18.0,13.0,1658.61,Reliable Goods,618661.5299999999,20.72222222222222,234.0,Low Risk
+1131,Webcam,Accessories,Noida,5.0,166.0,22.0,10.0,2129.76,Crown Distributors,10648.800000000001,0.22727272727272727,220.0,High Risk
+1132,Bluetooth Speaker,Accessories,Delhi,50.0,16.0,2.0,9.0,2003.0,Evergreen Supply,100150.0,25.0,18.0,Low Risk
+1133,SSD Drive,Computer Parts,Pune,20.0,32.0,20.0,2.0,6399.05,Metro Components,127981.0,1.0,40.0,High Risk
+1134,Mobile Charger,Accessories,Bengaluru,759.0,382.0,34.0,12.0,903.33,Reliable Goods,685627.4700000001,22.323529411764707,408.0,Low Risk
+1135,Tablet,Electronics,Pune,370.0,243.0,18.0,11.0,23936.71,Apex Traders,8856582.7,20.555555555555557,198.0,Low Risk
+1136,Projector,Electronics,Hyderabad,87.0,36.0,5.0,8.0,39497.05,Metro Components,3436243.35,17.4,40.0,Low Risk
+1137,Microphone,Accessories,Mumbai,97.0,260.0,15.0,14.0,2006.59,Reliable Goods,194639.22999999998,6.466666666666667,210.0,High Risk
+1138,Power Bank,Accessories,Bengaluru,270.0,188.0,26.0,10.0,1423.72,Prime Logistics,384404.4,10.384615384615385,260.0,Medium Risk
+1139,Smart Watch,Electronics,Noida,680.0,327.0,33.0,8.0,6130.85,BlueStar Supplies,4168978.0000000005,20.606060606060606,264.0,Low Risk
+1140,Barcode Scanner,Accessories,Bengaluru,71.0,21.0,15.0,2.0,4255.91,Prime Logistics,302169.61,4.733333333333333,30.0,Low Risk
+1141,Pen Drive,Accessories,Delhi,100.0,160.0,10.0,14.0,533.2,Reliable Goods,53320.00000000001,10.0,140.0,High Risk
+1142,Graphics Card,Computer Parts,Bengaluru,5.0,18.0,3.0,6.0,29958.69,Prime Logistics,149793.44999999998,1.6666666666666667,18.0,High Risk
+1143,Motherboard,Computer Parts,Pune,30.0,28.0,2.0,13.0,9363.39,Reliable Goods,280901.69999999995,15.0,26.0,Medium Risk
+1144,Cooling Fan,Computer Parts,Hyderabad,50.0,31.0,9.0,3.0,396.49,Evergreen Supply,19824.5,5.555555555555555,27.0,Low Risk
+1145,Network Adapter,Networking,Noida,227.0,66.0,10.0,10.0,985.46,Evergreen Supply,223699.42,22.7,100.0,Low Risk
+1146,HDMI Cable,Accessories,Pune,85.0,139.0,24.0,5.0,289.06,Prime Logistics,24570.1,3.5416666666666665,120.0,High Risk
+1147,Office Chair,Office Supplies,Noida,208.0,155.0,31.0,5.0,6148.73,Evergreen Supply,1278935.8399999999,6.709677419354839,155.0,Medium Risk
+1148,Packing Tape,Packaging,Noida,226.0,282.0,31.0,13.0,86.59,Metro Components,19569.34,7.290322580645161,403.0,High Risk
+1149,Shipping Box,Packaging,Mumbai,367.0,239.0,16.0,12.0,44.01,Evergreen Supply,16151.67,22.9375,192.0,Low Risk
+1150,Thermal Paper,Office Supplies,Pune,31.0,22.0,6.0,3.0,125.79,Evergreen Supply,3899.4900000000002,5.166666666666667,18.0,Low Risk
+1151,Laptop,Electronics,Noida,13.0,25.0,3.0,7.0,47436.9,Apex Traders,616679.7000000001,4.333333333333333,21.0,High Risk
+1152,Wireless Mouse,Accessories,Mumbai,8.0,32.0,14.0,3.0,574.76,Delta Wholesale,4598.08,0.5714285714285714,42.0,High Risk
+1153,Keyboard,Accessories,Noida,445.0,282.0,33.0,10.0,1221.23,Reliable Goods,543447.35,13.484848484848484,330.0,Medium Risk
+1154,LED Monitor,Electronics,Noida,337.0,170.0,26.0,8.0,13690.99,BlueStar Supplies,4613863.63,12.961538461538462,208.0,Low Risk
+1155,Laser Printer,Electronics,Bengaluru,110.0,143.0,20.0,6.0,10052.48,BlueStar Supplies,1105772.8,5.5,120.0,High Risk
+1156,USB Cable,Accessories,Mumbai,411.0,174.0,21.0,10.0,168.83,Crown Distributors,69389.13,19.571428571428573,210.0,Low Risk
+1157,External Hard Drive,Accessories,Mumbai,0.0,32.0,7.0,4.0,4870.84,Crown Distributors,0.0,0.0,28.0,High Risk
+1158,RAM Module,Computer Parts,Hyderabad,592.0,230.0,28.0,9.0,2784.04,Reliable Goods,1648151.68,21.142857142857142,252.0,Low Risk
+1159,Wi-Fi Router,Networking,Hyderabad,423.0,239.0,21.0,10.0,2779.46,Delta Wholesale,1175711.58,20.142857142857142,210.0,Low Risk
+1160,Headphones,Accessories,Mumbai,53.0,22.0,8.0,4.0,1762.39,Reliable Goods,93406.67,6.625,32.0,Low Risk
+1161,Webcam,Accessories,Delhi,90.0,196.0,27.0,8.0,2553.8,Metro Components,229842.00000000003,3.3333333333333335,216.0,High Risk
+1162,Bluetooth Speaker,Accessories,Hyderabad,3.0,19.0,5.0,5.0,1881.03,Delta Wholesale,5643.09,0.6,25.0,High Risk
+1163,SSD Drive,Computer Parts,Delhi,11.0,67.0,10.0,8.0,5622.06,Metro Components,61842.66,1.1,80.0,High Risk
+1164,Mobile Charger,Accessories,Hyderabad,30.0,179.0,14.0,12.0,790.23,Crown Distributors,23706.9,2.142857142857143,168.0,High Risk
+1165,Tablet,Electronics,Delhi,57.0,113.0,18.0,7.0,19951.73,Delta Wholesale,1137248.6099999999,3.1666666666666665,126.0,High Risk
+1166,Projector,Electronics,Delhi,0.0,114.0,30.0,4.0,38901.74,Crown Distributors,0.0,0.0,120.0,High Risk
+1167,Microphone,Accessories,Hyderabad,147.0,117.0,15.0,7.0,1790.72,BlueStar Supplies,263235.84,9.8,105.0,Medium Risk
+1168,Power Bank,Accessories,Noida,78.0,101.0,12.0,9.0,1670.37,BlueStar Supplies,130288.85999999999,6.5,108.0,High Risk
+1169,Smart Watch,Electronics,Delhi,225.0,188.0,26.0,6.0,5448.22,Prime Logistics,1225849.5,8.653846153846153,156.0,Medium Risk
+1170,Barcode Scanner,Accessories,Delhi,45.0,67.0,25.0,4.0,3835.31,Reliable Goods,172588.95,1.8,100.0,High Risk
+1171,Pen Drive,Accessories,Delhi,32.0,6.0,4.0,2.0,498.6,Metro Components,15955.2,8.0,8.0,Low Risk
+1172,Graphics Card,Computer Parts,Pune,127.0,174.0,22.0,8.0,29116.94,Prime Logistics,3697851.38,5.7727272727272725,176.0,High Risk
+1173,Motherboard,Computer Parts,Bengaluru,57.0,41.0,18.0,2.0,9650.11,Reliable Goods,550056.27,3.1666666666666665,36.0,Low Risk
+1174,Cooling Fan,Computer Parts,Bengaluru,970.0,303.0,27.0,14.0,495.23,Delta Wholesale,480373.10000000003,35.925925925925924,378.0,Low Risk
+1175,Network Adapter,Networking,Noida,70.0,368.0,33.0,9.0,967.64,BlueStar Supplies,67734.8,2.121212121212121,297.0,High Risk
+1176,HDMI Cable,Accessories,Bengaluru,258.0,109.0,12.0,9.0,279.58,Delta Wholesale,72131.64,21.5,108.0,Low Risk
+1177,Office Chair,Office Supplies,Delhi,341.0,91.0,22.0,6.0,6260.51,Delta Wholesale,2134833.91,15.5,132.0,Low Risk
+1178,Packing Tape,Packaging,Mumbai,10.0,23.0,2.0,11.0,94.49,Metro Components,944.9,5.0,22.0,High Risk
+1179,Shipping Box,Packaging,Bengaluru,77.0,206.0,29.0,6.0,40.96,Prime Logistics,3153.92,2.6551724137931036,174.0,High Risk
+1180,Thermal Paper,Office Supplies,Delhi,124.0,45.0,6.0,10.0,120.21,Reliable Goods,14906.039999999999,20.666666666666668,60.0,Low Risk
+1181,Laptop,Electronics,Hyderabad,33.0,13.0,10.0,2.0,53056.29,Delta Wholesale,1750857.57,3.3,20.0,Low Risk
+1182,Wireless Mouse,Accessories,Delhi,145.0,63.0,6.0,9.0,655.65,Evergreen Supply,95069.25,24.166666666666668,54.0,Low Risk
+1183,Keyboard,Accessories,Bengaluru,53.0,27.0,8.0,5.0,1045.82,Crown Distributors,55428.46,6.625,40.0,Medium Risk
+1184,LED Monitor,Electronics,Delhi,807.0,212.0,23.0,14.0,12787.14,BlueStar Supplies,10319221.98,35.08695652173913,322.0,Low Risk
+1185,Laser Printer,Electronics,Bengaluru,700.0,302.0,29.0,13.0,9622.07,Evergreen Supply,6735449.0,24.137931034482758,377.0,Low Risk
+1186,USB Cable,Accessories,Mumbai,335.0,179.0,15.0,11.0,182.89,Prime Logistics,61268.149999999994,22.333333333333332,165.0,Low Risk
+1187,External Hard Drive,Accessories,Bengaluru,970.0,315.0,25.0,14.0,4238.37,Apex Traders,4111218.9,38.8,350.0,Low Risk
+1188,RAM Module,Computer Parts,Pune,262.0,150.0,28.0,6.0,2527.22,Reliable Goods,662131.6399999999,9.357142857142858,168.0,Low Risk
+1189,Wi-Fi Router,Networking,Delhi,226.0,170.0,23.0,7.0,2888.01,Crown Distributors,652690.26,9.826086956521738,161.0,Medium Risk
+1190,Headphones,Accessories,Mumbai,41.0,81.0,7.0,10.0,1868.33,BlueStar Supplies,76601.53,5.857142857142857,70.0,High Risk
+1191,Webcam,Accessories,Hyderabad,201.0,113.0,13.0,8.0,2233.24,Delta Wholesale,448881.23999999993,15.461538461538462,104.0,Low Risk
+1192,Bluetooth Speaker,Accessories,Hyderabad,126.0,62.0,19.0,3.0,2242.61,Evergreen Supply,282568.86000000004,6.631578947368421,57.0,Low Risk
+1193,SSD Drive,Computer Parts,Hyderabad,100.0,57.0,16.0,3.0,6643.57,Evergreen Supply,664357.0,6.25,48.0,Low Risk
+1194,Mobile Charger,Accessories,Mumbai,8.0,10.0,5.0,2.0,752.72,Reliable Goods,6021.76,1.6,10.0,High Risk
+1195,Tablet,Electronics,Hyderabad,569.0,220.0,34.0,6.0,21443.65,Metro Components,12201436.850000001,16.735294117647058,204.0,Low Risk
+1196,Projector,Electronics,Delhi,131.0,71.0,12.0,6.0,38149.55,Evergreen Supply,4997591.050000001,10.916666666666666,72.0,Low Risk
+1197,Microphone,Accessories,Mumbai,59.0,273.0,21.0,14.0,1844.01,Crown Distributors,108796.59,2.8095238095238093,294.0,High Risk
+1198,Power Bank,Accessories,Delhi,64.0,123.0,15.0,11.0,1670.87,Crown Distributors,106935.68,4.266666666666667,165.0,High Risk
+1199,Smart Watch,Electronics,Delhi,16.0,22.0,2.0,14.0,5834.63,Evergreen Supply,93354.08,8.0,28.0,High Risk
+1200,Barcode Scanner,Accessories,Noida,155.0,143.0,31.0,6.0,3883.25,Evergreen Supply,601903.75,5.0,186.0,High Risk
+1201,Pen Drive,Accessories,Delhi,9.0,19.0,3.0,8.0,547.56,Apex Traders,4928.039999999999,3.0,24.0,High Risk
+1202,Graphics Card,Computer Parts,Mumbai,322.0,156.0,33.0,5.0,25837.13,Crown Distributors,8319555.86,9.757575757575758,165.0,Low Risk
+1203,Motherboard,Computer Parts,Hyderabad,27.0,33.0,6.0,5.0,11512.14,Apex Traders,310827.77999999997,4.5,30.0,High Risk
+1204,Cooling Fan,Computer Parts,Noida,901.0,373.0,34.0,9.0,403.76,BlueStar Supplies,363787.76,26.5,306.0,Low Risk
+1205,Network Adapter,Networking,Delhi,210.0,161.0,33.0,8.0,974.69,Metro Components,204684.90000000002,6.363636363636363,264.0,High Risk
+1206,HDMI Cable,Accessories,Noida,250.0,115.0,22.0,7.0,282.23,BlueStar Supplies,70557.5,11.363636363636363,154.0,Low Risk
+1207,Office Chair,Office Supplies,Pune,102.0,65.0,5.0,13.0,6181.81,Prime Logistics,630544.62,20.4,65.0,Low Risk
+1208,Packing Tape,Packaging,Delhi,204.0,185.0,14.0,12.0,95.88,BlueStar Supplies,19559.52,14.571428571428571,168.0,Medium Risk
+1209,Shipping Box,Packaging,Hyderabad,205.0,212.0,21.0,14.0,40.68,Delta Wholesale,8339.4,9.761904761904763,294.0,High Risk
+1210,Thermal Paper,Office Supplies,Delhi,101.0,30.0,10.0,4.0,117.51,Delta Wholesale,11868.51,10.1,40.0,Low Risk
+1211,Laptop,Electronics,Hyderabad,16.0,43.0,8.0,5.0,56674.7,Metro Components,906795.2,2.0,40.0,High Risk
+1212,Wireless Mouse,Accessories,Mumbai,165.0,83.0,13.0,8.0,610.19,BlueStar Supplies,100681.35,12.692307692307692,104.0,Low Risk
+1213,Keyboard,Accessories,Pune,0.0,49.0,3.0,14.0,1104.66,Crown Distributors,0.0,0.0,42.0,High Risk
+1214,LED Monitor,Electronics,Noida,200.0,122.0,18.0,7.0,12303.69,BlueStar Supplies,2460738.0,11.11111111111111,126.0,Low Risk
+1215,Laser Printer,Electronics,Noida,10.0,47.0,13.0,3.0,10533.31,BlueStar Supplies,105333.09999999999,0.7692307692307693,39.0,High Risk
+1216,USB Cable,Accessories,Hyderabad,69.0,32.0,7.0,6.0,169.34,Apex Traders,11684.460000000001,9.857142857142858,42.0,Low Risk
+1217,External Hard Drive,Accessories,Mumbai,0.0,50.0,14.0,3.0,4924.56,Apex Traders,0.0,0.0,42.0,High Risk
+1218,RAM Module,Computer Parts,Hyderabad,285.0,230.0,17.0,14.0,2589.82,Reliable Goods,738098.7000000001,16.764705882352942,238.0,Medium Risk
+1219,Wi-Fi Router,Networking,Noida,80.0,78.0,6.0,12.0,2383.4,Prime Logistics,190672.0,13.333333333333334,72.0,Medium Risk
+1220,Headphones,Accessories,Delhi,327.0,217.0,32.0,10.0,1635.7,Prime Logistics,534873.9,10.21875,320.0,Medium Risk
+1221,Webcam,Accessories,Pune,439.0,253.0,23.0,10.0,2141.0,BlueStar Supplies,939899.0,19.08695652173913,230.0,Low Risk
+1222,Bluetooth Speaker,Accessories,Bengaluru,336.0,264.0,32.0,8.0,1849.16,Reliable Goods,621317.76,10.5,256.0,Medium Risk
+1223,SSD Drive,Computer Parts,Noida,65.0,37.0,11.0,5.0,5648.0,Delta Wholesale,367120.0,5.909090909090909,55.0,Medium Risk
+1224,Mobile Charger,Accessories,Bengaluru,159.0,74.0,7.0,12.0,936.06,Crown Distributors,148833.53999999998,22.714285714285715,84.0,Low Risk
+1225,Tablet,Electronics,Bengaluru,149.0,152.0,15.0,11.0,22526.39,Apex Traders,3356432.11,9.933333333333334,165.0,High Risk
+1226,Projector,Electronics,Delhi,436.0,130.0,17.0,9.0,35978.92,Metro Components,15686809.12,25.647058823529413,153.0,Low Risk
+1227,Microphone,Accessories,Noida,1209.0,275.0,34.0,12.0,2078.97,Metro Components,2513474.73,35.55882352941177,408.0,Low Risk
+1228,Power Bank,Accessories,Mumbai,386.0,125.0,26.0,5.0,1661.44,Crown Distributors,641315.84,14.846153846153847,130.0,Low Risk
+1229,Smart Watch,Electronics,Pune,401.0,158.0,13.0,14.0,5372.15,Reliable Goods,2154232.15,30.846153846153847,182.0,Low Risk
+1230,Barcode Scanner,Accessories,Mumbai,129.0,57.0,20.0,3.0,4610.34,Delta Wholesale,594733.86,6.45,60.0,Low Risk
+1231,Pen Drive,Accessories,Noida,167.0,68.0,8.0,10.0,542.09,Crown Distributors,90529.03,20.875,80.0,Low Risk
+1232,Graphics Card,Computer Parts,Pune,19.0,75.0,6.0,12.0,29563.74,Metro Components,561711.06,3.1666666666666665,72.0,High Risk
+1233,Motherboard,Computer Parts,Mumbai,57.0,20.0,12.0,2.0,11200.94,Reliable Goods,638453.5800000001,4.75,24.0,Low Risk
+1234,Cooling Fan,Computer Parts,Hyderabad,244.0,346.0,30.0,11.0,409.97,Crown Distributors,100032.68000000001,8.133333333333333,330.0,High Risk
+1235,Network Adapter,Networking,Pune,68.0,66.0,27.0,3.0,988.63,Metro Components,67226.84,2.5185185185185186,81.0,High Risk
+1236,HDMI Cable,Accessories,Bengaluru,182.0,119.0,8.0,14.0,332.61,Evergreen Supply,60535.020000000004,22.75,112.0,Low Risk
+1237,Office Chair,Office Supplies,Mumbai,25.0,133.0,26.0,5.0,7242.76,Evergreen Supply,181069.0,0.9615384615384616,130.0,High Risk
+1238,Packing Tape,Packaging,Pune,215.0,69.0,15.0,7.0,87.84,Reliable Goods,18885.600000000002,14.333333333333334,105.0,Low Risk
+1239,Shipping Box,Packaging,Hyderabad,157.0,272.0,33.0,9.0,48.82,Crown Distributors,7664.74,4.757575757575758,297.0,High Risk
+1240,Thermal Paper,Office Supplies,Pune,254.0,147.0,12.0,13.0,123.81,Crown Distributors,31447.74,21.166666666666668,156.0,Low Risk
+1241,Laptop,Electronics,Hyderabad,400.0,167.0,28.0,5.0,56284.67,Reliable Goods,22513868.0,14.285714285714286,140.0,Low Risk
+1242,Wireless Mouse,Accessories,Delhi,151.0,75.0,34.0,2.0,690.96,Delta Wholesale,104334.96,4.4411764705882355,68.0,Low Risk
+1243,Keyboard,Accessories,Bengaluru,280.0,122.0,22.0,7.0,1044.38,Crown Distributors,292426.4,12.727272727272727,154.0,Low Risk
+1244,LED Monitor,Electronics,Bengaluru,140.0,71.0,10.0,8.0,11656.57,Prime Logistics,1631919.8,14.0,80.0,Low Risk
+1245,Laser Printer,Electronics,Delhi,157.0,107.0,11.0,13.0,9126.38,Delta Wholesale,1432841.66,14.272727272727273,143.0,Medium Risk
+1246,USB Cable,Accessories,Bengaluru,211.0,61.0,28.0,3.0,191.85,Apex Traders,40480.35,7.535714285714286,84.0,Low Risk
+1247,External Hard Drive,Accessories,Mumbai,30.0,43.0,5.0,7.0,4401.37,Apex Traders,132041.1,6.0,35.0,High Risk
+1248,RAM Module,Computer Parts,Bengaluru,195.0,127.0,15.0,7.0,3123.11,Apex Traders,609006.4500000001,13.0,105.0,Low Risk
+1249,Wi-Fi Router,Networking,Mumbai,71.0,107.0,32.0,3.0,2840.15,BlueStar Supplies,201650.65,2.21875,96.0,High Risk
+1250,Headphones,Accessories,Delhi,54.0,185.0,23.0,7.0,1567.95,Delta Wholesale,84669.3,2.347826086956522,161.0,High Risk
+1251,Webcam,Accessories,Pune,143.0,153.0,18.0,9.0,2384.28,Apex Traders,340952.04000000004,7.944444444444445,162.0,High Risk
+1252,Bluetooth Speaker,Accessories,Pune,203.0,65.0,34.0,2.0,1895.98,Metro Components,384883.94,5.970588235294118,68.0,Low Risk
+1253,SSD Drive,Computer Parts,Noida,62.0,58.0,5.0,14.0,6088.07,BlueStar Supplies,377460.33999999997,12.4,70.0,High Risk
+1254,Mobile Charger,Accessories,Pune,36.0,15.0,3.0,6.0,908.64,Prime Logistics,32711.04,12.0,18.0,Low Risk
+1255,Tablet,Electronics,Mumbai,440.0,334.0,31.0,12.0,23313.77,Metro Components,10258058.8,14.193548387096774,372.0,Medium Risk
+1256,Projector,Electronics,Bengaluru,165.0,132.0,28.0,4.0,35666.99,Reliable Goods,5885053.35,5.892857142857143,112.0,Medium Risk
+1257,Microphone,Accessories,Bengaluru,88.0,71.0,32.0,3.0,1702.79,Evergreen Supply,149845.52,2.75,96.0,High Risk
+1258,Power Bank,Accessories,Delhi,0.0,10.0,3.0,4.0,1705.46,Apex Traders,0.0,0.0,12.0,High Risk
+1259,Smart Watch,Electronics,Mumbai,133.0,148.0,13.0,10.0,5033.86,Apex Traders,669503.38,10.23076923076923,130.0,Medium Risk
+1260,Barcode Scanner,Accessories,Delhi,370.0,146.0,30.0,5.0,4521.75,Apex Traders,1673047.5,12.333333333333334,150.0,Low Risk
+1261,Pen Drive,Accessories,Mumbai,185.0,114.0,15.0,7.0,583.31,BlueStar Supplies,107912.34999999999,12.333333333333334,105.0,Low Risk
+1262,Graphics Card,Computer Parts,Noida,364.0,150.0,18.0,9.0,27596.47,BlueStar Supplies,10045115.08,20.22222222222222,162.0,Low Risk
+1263,Motherboard,Computer Parts,Delhi,253.0,96.0,22.0,4.0,9456.68,Crown Distributors,2392540.04,11.5,88.0,Low Risk
+1264,Cooling Fan,Computer Parts,Pune,14.0,32.0,7.0,4.0,439.04,Reliable Goods,6146.56,2.0,28.0,High Risk
+1265,Network Adapter,Networking,Noida,48.0,93.0,30.0,3.0,876.87,BlueStar Supplies,42089.76,1.6,90.0,High Risk
+1266,HDMI Cable,Accessories,Bengaluru,1229.0,492.0,30.0,14.0,277.85,BlueStar Supplies,341477.65,40.96666666666667,420.0,Low Risk
+1267,Office Chair,Office Supplies,Pune,128.0,139.0,17.0,10.0,6603.62,Metro Components,845263.36,7.529411764705882,170.0,High Risk
+1268,Packing Tape,Packaging,Bengaluru,298.0,129.0,20.0,6.0,79.77,Apex Traders,23771.46,14.9,120.0,Low Risk
+1269,Shipping Box,Packaging,Mumbai,534.0,271.0,32.0,9.0,44.12,Crown Distributors,23560.079999999998,16.6875,288.0,Low Risk
+1270,Thermal Paper,Office Supplies,Pune,200.0,79.0,27.0,3.0,116.7,Crown Distributors,23340.0,7.407407407407407,81.0,Low Risk
+1271,Laptop,Electronics,Bengaluru,64.0,40.0,6.0,8.0,54204.62,Prime Logistics,3469095.68,10.666666666666666,48.0,Medium Risk
+1272,Wireless Mouse,Accessories,Pune,0.0,18.0,4.0,6.0,711.54,Metro Components,0.0,0.0,24.0,High Risk
+1273,Keyboard,Accessories,Noida,30.0,127.0,27.0,4.0,1093.69,Prime Logistics,32810.700000000004,1.1111111111111112,108.0,High Risk
+1274,LED Monitor,Electronics,Noida,45.0,199.0,32.0,8.0,12757.31,BlueStar Supplies,574078.95,1.40625,256.0,High Risk
+1275,Laser Printer,Electronics,Delhi,294.0,85.0,11.0,10.0,8831.93,Apex Traders,2596587.42,26.727272727272727,110.0,Low Risk
+1276,USB Cable,Accessories,Mumbai,63.0,87.0,15.0,8.0,195.56,Crown Distributors,12320.28,4.2,120.0,High Risk
+1277,External Hard Drive,Accessories,Noida,122.0,53.0,13.0,6.0,4529.06,Reliable Goods,552545.3200000001,9.384615384615385,78.0,Low Risk
+1278,RAM Module,Computer Parts,Pune,94.0,182.0,22.0,7.0,3088.74,Apex Traders,290341.56,4.2727272727272725,154.0,High Risk
+1279,Wi-Fi Router,Networking,Bengaluru,107.0,56.0,26.0,3.0,2364.11,BlueStar Supplies,252959.77000000002,4.115384615384615,78.0,Medium Risk
+1280,Headphones,Accessories,Delhi,950.0,479.0,30.0,14.0,1710.63,Reliable Goods,1625098.5,31.666666666666668,420.0,Low Risk
+1281,Webcam,Accessories,Mumbai,5.0,28.0,16.0,2.0,2547.65,Apex Traders,12738.25,0.3125,32.0,High Risk
+1282,Bluetooth Speaker,Accessories,Mumbai,660.0,205.0,21.0,13.0,2341.23,Delta Wholesale,1545211.8,31.428571428571427,273.0,Low Risk
+1283,SSD Drive,Computer Parts,Noida,436.0,187.0,19.0,8.0,6047.52,Prime Logistics,2636718.72,22.94736842105263,152.0,Low Risk
+1284,Mobile Charger,Accessories,Hyderabad,64.0,141.0,21.0,8.0,787.41,Apex Traders,50394.24,3.0476190476190474,168.0,High Risk
+1285,Tablet,Electronics,Noida,630.0,365.0,28.0,13.0,21517.77,Delta Wholesale,13556195.1,22.5,364.0,Low Risk
+1286,Projector,Electronics,Pune,364.0,231.0,16.0,12.0,43050.82,Delta Wholesale,15670498.48,22.75,192.0,Low Risk
+1287,Microphone,Accessories,Bengaluru,471.0,149.0,27.0,6.0,1882.59,Crown Distributors,886699.89,17.444444444444443,162.0,Low Risk
+1288,Power Bank,Accessories,Delhi,229.0,116.0,23.0,6.0,1540.76,Delta Wholesale,352834.04,9.956521739130435,138.0,Low Risk
+1289,Smart Watch,Electronics,Pune,85.0,42.0,19.0,3.0,5353.61,Prime Logistics,455056.85,4.473684210526316,57.0,Medium Risk
+1290,Barcode Scanner,Accessories,Bengaluru,182.0,119.0,9.0,12.0,3955.48,Prime Logistics,719897.36,20.22222222222222,108.0,Low Risk
+1291,Pen Drive,Accessories,Pune,149.0,480.0,34.0,14.0,490.94,Metro Components,73150.06,4.382352941176471,476.0,High Risk
+1292,Graphics Card,Computer Parts,Hyderabad,505.0,516.0,33.0,13.0,29040.21,Apex Traders,14665306.049999999,15.303030303030303,429.0,Medium Risk
+1293,Motherboard,Computer Parts,Bengaluru,120.0,46.0,22.0,2.0,9306.86,Crown Distributors,1116823.2000000002,5.454545454545454,44.0,Low Risk
+1294,Cooling Fan,Computer Parts,Noida,199.0,73.0,26.0,3.0,446.3,Apex Traders,88813.7,7.653846153846154,78.0,Low Risk
+1295,Network Adapter,Networking,Hyderabad,634.0,203.0,20.0,12.0,872.58,Prime Logistics,553215.72,31.7,240.0,Low Risk
+1296,HDMI Cable,Accessories,Delhi,32.0,29.0,20.0,2.0,319.79,Delta Wholesale,10233.28,1.6,40.0,High Risk
+1297,Office Chair,Office Supplies,Hyderabad,16.0,88.0,9.0,8.0,7054.8,Prime Logistics,112876.8,1.7777777777777777,72.0,High Risk
+1298,Packing Tape,Packaging,Delhi,199.0,131.0,8.0,14.0,87.29,Apex Traders,17370.710000000003,24.875,112.0,Low Risk
+1299,Shipping Box,Packaging,Bengaluru,123.0,157.0,14.0,12.0,50.21,Metro Components,6175.83,8.785714285714286,168.0,High Risk
+1300,Thermal Paper,Office Supplies,Delhi,364.0,249.0,22.0,13.0,117.63,Apex Traders,42817.32,16.545454545454547,286.0,Medium Risk
+1301,Laptop,Electronics,Mumbai,76.0,428.0,31.0,12.0,49551.38,Metro Components,3765904.88,2.4516129032258065,372.0,High Risk
+1302,Wireless Mouse,Accessories,Noida,4.0,57.0,30.0,2.0,644.33,Metro Components,2577.32,0.13333333333333333,60.0,High Risk
+1303,Keyboard,Accessories,Noida,28.0,88.0,21.0,4.0,1131.34,BlueStar Supplies,31677.519999999997,1.3333333333333333,84.0,High Risk
+1304,LED Monitor,Electronics,Noida,37.0,26.0,3.0,9.0,11642.98,BlueStar Supplies,430790.26,12.333333333333334,27.0,Medium Risk
+1305,Laser Printer,Electronics,Delhi,44.0,68.0,20.0,4.0,10519.89,BlueStar Supplies,462875.16,2.2,80.0,High Risk
+1306,USB Cable,Accessories,Bengaluru,145.0,74.0,15.0,4.0,161.89,Metro Components,23474.05,9.666666666666666,60.0,Low Risk
+1307,External Hard Drive,Accessories,Noida,477.0,455.0,34.0,13.0,4720.6,Crown Distributors,2251726.2,14.029411764705882,442.0,Medium Risk
+1308,RAM Module,Computer Parts,Bengaluru,21.0,14.0,3.0,4.0,3108.25,Apex Traders,65273.25,7.0,12.0,Low Risk
+1309,Wi-Fi Router,Networking,Hyderabad,137.0,73.0,8.0,11.0,2316.15,Crown Distributors,317312.55,17.125,88.0,Low Risk
+1310,Headphones,Accessories,Delhi,884.0,253.0,32.0,11.0,1520.41,Prime Logistics,1344042.4400000002,27.625,352.0,Low Risk
+1311,Webcam,Accessories,Hyderabad,26.0,124.0,32.0,4.0,2337.23,Metro Components,60767.98,0.8125,128.0,High Risk
+1312,Bluetooth Speaker,Accessories,Mumbai,240.0,123.0,15.0,12.0,2336.25,Crown Distributors,560700.0,16.0,180.0,Medium Risk
+1313,SSD Drive,Computer Parts,Hyderabad,66.0,92.0,28.0,4.0,5596.3,Metro Components,369355.8,2.357142857142857,112.0,High Risk
+1314,Mobile Charger,Accessories,Bengaluru,191.0,103.0,30.0,3.0,947.08,Prime Logistics,180892.28,6.366666666666666,90.0,Low Risk
+1315,Tablet,Electronics,Pune,503.0,132.0,13.0,14.0,22241.17,Delta Wholesale,11187308.51,38.69230769230769,182.0,Low Risk
+1316,Projector,Electronics,Pune,717.0,327.0,19.0,14.0,40917.29,Delta Wholesale,29337696.93,37.73684210526316,266.0,Low Risk
+1317,Microphone,Accessories,Noida,99.0,104.0,17.0,7.0,1850.53,Apex Traders,183202.47,5.823529411764706,119.0,High Risk
+1318,Power Bank,Accessories,Mumbai,10.0,49.0,4.0,11.0,1579.29,Reliable Goods,15792.9,2.5,44.0,High Risk
+1319,Smart Watch,Electronics,Delhi,246.0,175.0,29.0,9.0,5111.68,Crown Distributors,1257473.28,8.482758620689655,261.0,High Risk
+1320,Barcode Scanner,Accessories,Hyderabad,267.0,391.0,34.0,12.0,4639.67,Reliable Goods,1238791.8900000001,7.852941176470588,408.0,High Risk
+1321,Pen Drive,Accessories,Delhi,15.0,10.0,3.0,5.0,492.36,BlueStar Supplies,7385.400000000001,5.0,15.0,High Risk
+1322,Graphics Card,Computer Parts,Bengaluru,40.0,28.0,8.0,3.0,28754.58,Metro Components,1150183.2000000002,5.0,24.0,Low Risk
+1323,Motherboard,Computer Parts,Bengaluru,289.0,126.0,28.0,4.0,11417.62,Evergreen Supply,3299692.18,10.321428571428571,112.0,Low Risk
+1324,Cooling Fan,Computer Parts,Noida,103.0,69.0,33.0,3.0,420.4,Delta Wholesale,43301.2,3.121212121212121,99.0,Medium Risk
+1325,Network Adapter,Networking,Pune,300.0,270.0,22.0,14.0,908.74,Delta Wholesale,272622.0,13.636363636363637,308.0,High Risk
+1326,HDMI Cable,Accessories,Delhi,76.0,83.0,8.0,10.0,312.45,Delta Wholesale,23746.2,9.5,80.0,High Risk
+1327,Office Chair,Office Supplies,Mumbai,303.0,121.0,28.0,4.0,7181.2,Prime Logistics,2175903.6,10.821428571428571,112.0,Low Risk
+1328,Packing Tape,Packaging,Delhi,30.0,91.0,8.0,12.0,90.42,Evergreen Supply,2712.6,3.75,96.0,High Risk
+1329,Shipping Box,Packaging,Noida,66.0,279.0,32.0,7.0,44.76,Reliable Goods,2954.16,2.0625,224.0,High Risk
+1330,Thermal Paper,Office Supplies,Pune,42.0,211.0,15.0,14.0,112.17,Metro Components,4711.14,2.8,210.0,High Risk
+1331,Laptop,Electronics,Noida,2.0,54.0,22.0,2.0,56951.51,Crown Distributors,113903.02,0.09090909090909091,44.0,High Risk
+1332,Wireless Mouse,Accessories,Pune,33.0,213.0,17.0,11.0,673.12,Prime Logistics,22212.96,1.9411764705882353,187.0,High Risk
+1333,Keyboard,Accessories,Hyderabad,125.0,224.0,31.0,7.0,1134.6,Crown Distributors,141825.0,4.032258064516129,217.0,High Risk
+1334,LED Monitor,Electronics,Pune,180.0,95.0,13.0,7.0,13881.76,Crown Distributors,2498716.8,13.846153846153847,91.0,Low Risk
+1335,Laser Printer,Electronics,Bengaluru,162.0,167.0,21.0,7.0,10039.39,Delta Wholesale,1626381.18,7.714285714285714,147.0,Medium Risk
+1336,USB Cable,Accessories,Noida,87.0,149.0,17.0,8.0,164.07,BlueStar Supplies,14274.09,5.117647058823529,136.0,High Risk
+1337,External Hard Drive,Accessories,Hyderabad,94.0,153.0,14.0,10.0,4538.02,Evergreen Supply,426573.88000000006,6.714285714285714,140.0,High Risk
+1338,RAM Module,Computer Parts,Noida,43.0,11.0,5.0,3.0,2596.83,Crown Distributors,111663.69,8.6,15.0,Low Risk
+1339,Wi-Fi Router,Networking,Pune,209.0,113.0,12.0,8.0,2729.89,Prime Logistics,570547.01,17.416666666666668,96.0,Low Risk
+1340,Headphones,Accessories,Noida,82.0,72.0,7.0,11.0,1556.15,Crown Distributors,127604.3,11.714285714285714,77.0,Medium Risk
+1341,Webcam,Accessories,Bengaluru,127.0,43.0,10.0,6.0,2413.18,BlueStar Supplies,306473.86,12.7,60.0,Low Risk
+1342,Bluetooth Speaker,Accessories,Delhi,40.0,31.0,4.0,7.0,2224.99,Prime Logistics,88999.59999999999,10.0,28.0,Medium Risk
+1343,SSD Drive,Computer Parts,Mumbai,46.0,63.0,8.0,7.0,5992.89,BlueStar Supplies,275672.94,5.75,56.0,High Risk
+1344,Mobile Charger,Accessories,Hyderabad,49.0,30.0,7.0,5.0,797.15,Prime Logistics,39060.35,7.0,35.0,Medium Risk
+1345,Tablet,Electronics,Delhi,46.0,34.0,7.0,6.0,21676.98,Metro Components,997141.08,6.571428571428571,42.0,Medium Risk
+1346,Projector,Electronics,Delhi,158.0,113.0,11.0,13.0,41463.14,Reliable Goods,6551176.12,14.363636363636363,143.0,Medium Risk
+1347,Microphone,Accessories,Hyderabad,7.0,116.0,14.0,8.0,2127.47,Delta Wholesale,14892.289999999999,0.5,112.0,High Risk
+1348,Power Bank,Accessories,Noida,411.0,184.0,22.0,7.0,1711.92,Delta Wholesale,703599.12,18.681818181818183,154.0,Low Risk
+1349,Smart Watch,Electronics,Noida,141.0,53.0,27.0,3.0,5492.5,Delta Wholesale,774442.5,5.222222222222222,81.0,Low Risk
+1350,Barcode Scanner,Accessories,Hyderabad,178.0,103.0,15.0,7.0,4539.31,Apex Traders,807997.18,11.866666666666667,105.0,Low Risk
+1351,Pen Drive,Accessories,Hyderabad,20.0,112.0,25.0,4.0,615.32,Metro Components,12306.400000000001,0.8,100.0,High Risk
+1352,Graphics Card,Computer Parts,Pune,240.0,75.0,30.0,3.0,27827.37,Crown Distributors,6678568.8,8.0,90.0,Low Risk
+1353,Motherboard,Computer Parts,Noida,338.0,316.0,29.0,9.0,10643.64,Evergreen Supply,3597550.32,11.655172413793103,261.0,Medium Risk
+1354,Cooling Fan,Computer Parts,Bengaluru,22.0,33.0,11.0,4.0,402.26,Reliable Goods,8849.72,2.0,44.0,High Risk
+1355,Network Adapter,Networking,Pune,1.0,217.0,27.0,7.0,833.45,Metro Components,833.45,0.037037037037037035,189.0,High Risk
+1356,HDMI Cable,Accessories,Pune,68.0,22.0,7.0,4.0,329.76,BlueStar Supplies,22423.68,9.714285714285714,28.0,Low Risk
+1357,Office Chair,Office Supplies,Mumbai,138.0,125.0,11.0,10.0,6150.88,Crown Distributors,848821.4400000001,12.545454545454545,110.0,Medium Risk
+1358,Packing Tape,Packaging,Pune,235.0,269.0,33.0,9.0,88.54,Crown Distributors,20806.9,7.121212121212121,297.0,High Risk
+1359,Shipping Box,Packaging,Noida,562.0,360.0,27.0,12.0,48.62,Prime Logistics,27324.44,20.814814814814813,324.0,Low Risk
+1360,Thermal Paper,Office Supplies,Hyderabad,1.0,89.0,9.0,10.0,134.23,Apex Traders,134.23,0.1111111111111111,90.0,High Risk
+1361,Laptop,Electronics,Pune,69.0,30.0,8.0,4.0,46871.24,BlueStar Supplies,3234115.56,8.625,32.0,Low Risk
+1362,Wireless Mouse,Accessories,Mumbai,201.0,78.0,15.0,6.0,601.46,BlueStar Supplies,120893.46,13.4,90.0,Low Risk
+1363,Keyboard,Accessories,Hyderabad,311.0,131.0,20.0,7.0,1137.55,Metro Components,353778.05,15.55,140.0,Low Risk
+1364,LED Monitor,Electronics,Mumbai,212.0,64.0,24.0,3.0,12210.06,Reliable Goods,2588532.7199999997,8.833333333333334,72.0,Low Risk
+1365,Laser Printer,Electronics,Pune,5.0,21.0,4.0,5.0,8582.96,Delta Wholesale,42914.799999999996,1.25,20.0,High Risk
+1366,USB Cable,Accessories,Mumbai,30.0,38.0,17.0,3.0,178.44,Crown Distributors,5353.2,1.7647058823529411,51.0,High Risk
+1367,External Hard Drive,Accessories,Pune,155.0,114.0,8.0,12.0,4530.47,Evergreen Supply,702222.8500000001,19.375,96.0,Low Risk
+1368,RAM Module,Computer Parts,Bengaluru,25.0,24.0,11.0,3.0,3098.23,Delta Wholesale,77455.75,2.272727272727273,33.0,High Risk
+1369,Wi-Fi Router,Networking,Noida,242.0,148.0,32.0,4.0,2309.91,Apex Traders,558998.22,7.5625,128.0,Low Risk
+1370,Headphones,Accessories,Noida,161.0,94.0,7.0,12.0,1582.06,Reliable Goods,254711.66,23.0,84.0,Low Risk
+1371,Webcam,Accessories,Mumbai,62.0,331.0,22.0,13.0,2051.9,Prime Logistics,127217.8,2.8181818181818183,286.0,High Risk
+1372,Bluetooth Speaker,Accessories,Bengaluru,247.0,275.0,30.0,9.0,2231.02,BlueStar Supplies,551061.94,8.233333333333333,270.0,High Risk
+1373,SSD Drive,Computer Parts,Pune,22.0,87.0,6.0,12.0,6112.54,Apex Traders,134475.88,3.6666666666666665,72.0,High Risk
+1374,Mobile Charger,Accessories,Delhi,189.0,131.0,30.0,4.0,915.38,Metro Components,173006.82,6.3,120.0,Low Risk
+1375,Tablet,Electronics,Mumbai,325.0,79.0,22.0,5.0,22015.18,Metro Components,7154933.5,14.772727272727273,110.0,Low Risk
+1376,Projector,Electronics,Hyderabad,251.0,127.0,18.0,8.0,41685.3,Reliable Goods,10463010.3,13.944444444444445,144.0,Low Risk
+1377,Microphone,Accessories,Pune,121.0,152.0,28.0,5.0,1910.53,Prime Logistics,231174.13,4.321428571428571,140.0,High Risk
+1378,Power Bank,Accessories,Pune,114.0,58.0,8.0,6.0,1685.19,Reliable Goods,192111.66,14.25,48.0,Low Risk
+1379,Smart Watch,Electronics,Bengaluru,104.0,84.0,7.0,14.0,5465.59,Apex Traders,568421.36,14.857142857142858,98.0,Medium Risk
+1380,Barcode Scanner,Accessories,Delhi,38.0,122.0,34.0,4.0,4578.54,Crown Distributors,173984.52,1.1176470588235294,136.0,High Risk
+1381,Pen Drive,Accessories,Hyderabad,417.0,200.0,19.0,12.0,600.63,Prime Logistics,250462.71,21.94736842105263,228.0,Low Risk
+1382,Graphics Card,Computer Parts,Mumbai,127.0,46.0,11.0,5.0,29227.52,Metro Components,3711895.04,11.545454545454545,55.0,Low Risk
+1383,Motherboard,Computer Parts,Mumbai,524.0,255.0,32.0,12.0,11034.03,Crown Distributors,5781831.720000001,16.375,384.0,Medium Risk
+1384,Cooling Fan,Computer Parts,Pune,267.0,122.0,20.0,9.0,433.61,Prime Logistics,115773.87000000001,13.35,180.0,Medium Risk
+1385,Network Adapter,Networking,Hyderabad,64.0,46.0,26.0,2.0,802.99,Crown Distributors,51391.36,2.4615384615384617,52.0,Medium Risk
+1386,HDMI Cable,Accessories,Pune,180.0,273.0,26.0,9.0,317.72,Reliable Goods,57189.600000000006,6.923076923076923,234.0,High Risk
+1387,Office Chair,Office Supplies,Pune,54.0,42.0,11.0,4.0,6103.29,Prime Logistics,329577.66,4.909090909090909,44.0,Medium Risk
+1388,Packing Tape,Packaging,Delhi,5.0,77.0,9.0,7.0,94.54,Metro Components,472.70000000000005,0.5555555555555556,63.0,High Risk
+1389,Shipping Box,Packaging,Noida,47.0,149.0,14.0,11.0,44.45,Apex Traders,2089.15,3.357142857142857,154.0,High Risk
+1390,Thermal Paper,Office Supplies,Delhi,83.0,163.0,23.0,6.0,128.98,Crown Distributors,10705.339999999998,3.608695652173913,138.0,High Risk
+1391,Laptop,Electronics,Hyderabad,241.0,224.0,34.0,9.0,57028.1,Metro Components,13743772.1,7.088235294117647,306.0,High Risk
+1392,Wireless Mouse,Accessories,Delhi,382.0,288.0,32.0,12.0,605.04,Apex Traders,231125.28,11.9375,384.0,High Risk
+1393,Keyboard,Accessories,Hyderabad,4.0,16.0,8.0,3.0,987.55,Apex Traders,3950.2,0.5,24.0,High Risk
+1394,LED Monitor,Electronics,Delhi,119.0,47.0,6.0,8.0,13323.25,Metro Components,1585466.75,19.833333333333332,48.0,Low Risk
+1395,Laser Printer,Electronics,Bengaluru,257.0,201.0,15.0,13.0,9985.07,Delta Wholesale,2566162.9899999998,17.133333333333333,195.0,Medium Risk
+1396,USB Cable,Accessories,Noida,182.0,163.0,16.0,11.0,165.73,Prime Logistics,30162.859999999997,11.375,176.0,Medium Risk
+1397,External Hard Drive,Accessories,Mumbai,305.0,100.0,27.0,5.0,5194.06,Metro Components,1584188.3,11.296296296296296,135.0,Low Risk
+1398,RAM Module,Computer Parts,Hyderabad,345.0,195.0,12.0,14.0,2516.24,Prime Logistics,868102.7999999999,28.75,168.0,Low Risk
+1399,Wi-Fi Router,Networking,Pune,54.0,31.0,8.0,5.0,2855.71,Apex Traders,154208.34,6.75,40.0,Medium Risk
+1400,Headphones,Accessories,Mumbai,262.0,126.0,11.0,14.0,2224.99,Evergreen Supply,582947.3799999999,23.818181818181817,154.0,Low Risk
+1401,Webcam,Accessories,Delhi,399.0,147.0,16.0,9.0,2406.83,Evergreen Supply,960325.1699999999,24.9375,144.0,Low Risk
+1402,Bluetooth Speaker,Accessories,Delhi,442.0,149.0,24.0,9.0,2073.21,Delta Wholesale,916358.8200000001,18.416666666666668,216.0,Low Risk
+1403,SSD Drive,Computer Parts,Noida,47.0,37.0,16.0,3.0,6561.44,Prime Logistics,308387.68,2.9375,48.0,High Risk
+1404,Mobile Charger,Accessories,Hyderabad,268.0,105.0,9.0,12.0,903.13,Delta Wholesale,242038.84,29.77777777777778,108.0,Low Risk
+1405,Tablet,Electronics,Hyderabad,328.0,155.0,19.0,8.0,21956.77,Reliable Goods,7201820.5600000005,17.263157894736842,152.0,Low Risk
+1406,Projector,Electronics,Noida,343.0,207.0,19.0,10.0,34992.52,Evergreen Supply,12002434.36,18.05263157894737,190.0,Low Risk
+1407,Microphone,Accessories,Noida,192.0,230.0,24.0,8.0,1885.55,Reliable Goods,362025.6,8.0,192.0,High Risk
+1408,Power Bank,Accessories,Delhi,356.0,200.0,33.0,8.0,1491.3,Apex Traders,530902.7999999999,10.787878787878787,264.0,Medium Risk
+1409,Smart Watch,Electronics,Pune,46.0,38.0,21.0,2.0,5808.18,Metro Components,267176.28,2.1904761904761907,42.0,Medium Risk
+1410,Barcode Scanner,Accessories,Hyderabad,22.0,8.0,3.0,4.0,4644.6,BlueStar Supplies,102181.20000000001,7.333333333333333,12.0,Low Risk
+1411,Pen Drive,Accessories,Bengaluru,177.0,126.0,15.0,10.0,538.42,Crown Distributors,95300.34,11.8,150.0,Medium Risk
+1412,Graphics Card,Computer Parts,Delhi,56.0,96.0,27.0,3.0,28501.43,Prime Logistics,1596080.08,2.074074074074074,81.0,High Risk
+1413,Motherboard,Computer Parts,Mumbai,566.0,292.0,18.0,13.0,9962.97,Crown Distributors,5639041.02,31.444444444444443,234.0,Low Risk
+1414,Cooling Fan,Computer Parts,Delhi,78.0,99.0,10.0,10.0,503.3,Reliable Goods,39257.4,7.8,100.0,High Risk
+1415,Network Adapter,Networking,Hyderabad,86.0,41.0,5.0,8.0,993.51,Crown Distributors,85441.86,17.2,40.0,Low Risk
+1416,HDMI Cable,Accessories,Hyderabad,76.0,55.0,8.0,6.0,285.83,Delta Wholesale,21723.079999999998,9.5,48.0,Low Risk
+1417,Office Chair,Office Supplies,Hyderabad,347.0,156.0,9.0,14.0,6965.58,Reliable Goods,2417056.26,38.55555555555556,126.0,Low Risk
+1418,Packing Tape,Packaging,Mumbai,19.0,19.0,10.0,2.0,91.31,Evergreen Supply,1734.89,1.9,20.0,High Risk
+1419,Shipping Box,Packaging,Pune,407.0,178.0,20.0,10.0,43.2,Delta Wholesale,17582.4,20.35,200.0,Low Risk
+1420,Thermal Paper,Office Supplies,Hyderabad,36.0,73.0,12.0,8.0,130.1,Delta Wholesale,4683.599999999999,3.0,96.0,High Risk
+1421,Laptop,Electronics,Bengaluru,39.0,13.0,3.0,4.0,46024.03,Reliable Goods,1794937.17,13.0,12.0,Low Risk
+1422,Wireless Mouse,Accessories,Pune,19.0,37.0,12.0,3.0,614.9,Apex Traders,11683.1,1.5833333333333333,36.0,High Risk
+1423,Keyboard,Accessories,Delhi,32.0,3.0,2.0,2.0,1192.08,Apex Traders,38146.56,16.0,4.0,Low Risk
+1424,LED Monitor,Electronics,Noida,101.0,51.0,7.0,8.0,12328.55,Apex Traders,1245183.5499999998,14.428571428571429,56.0,Low Risk
+1425,Laser Printer,Electronics,Delhi,72.0,227.0,16.0,12.0,8767.22,Evergreen Supply,631239.84,4.5,192.0,High Risk
+1426,USB Cable,Accessories,Pune,306.0,137.0,31.0,6.0,167.16,Metro Components,51150.96,9.870967741935484,186.0,Low Risk
+1427,External Hard Drive,Accessories,Hyderabad,190.0,66.0,6.0,11.0,4793.16,Evergreen Supply,910700.4,31.666666666666668,66.0,Low Risk
+1428,RAM Module,Computer Parts,Pune,204.0,123.0,11.0,13.0,2614.81,Apex Traders,533421.24,18.545454545454547,143.0,Medium Risk
+1429,Wi-Fi Router,Networking,Delhi,32.0,32.0,5.0,6.0,2562.05,Evergreen Supply,81985.6,6.4,30.0,Medium Risk
+1430,Headphones,Accessories,Mumbai,210.0,128.0,23.0,5.0,1826.69,Metro Components,383604.9,9.130434782608695,115.0,Low Risk
+1431,Webcam,Accessories,Bengaluru,24.0,8.0,3.0,3.0,2159.55,BlueStar Supplies,51829.200000000004,8.0,9.0,Low Risk
+1432,Bluetooth Speaker,Accessories,Delhi,26.0,35.0,3.0,13.0,2056.62,BlueStar Supplies,53472.119999999995,8.666666666666666,39.0,High Risk
+1433,SSD Drive,Computer Parts,Mumbai,94.0,86.0,6.0,12.0,6839.2,Evergreen Supply,642884.7999999999,15.666666666666666,72.0,Medium Risk
+1434,Mobile Charger,Accessories,Hyderabad,36.0,12.0,2.0,5.0,750.46,Prime Logistics,27016.56,18.0,10.0,Low Risk
+1435,Tablet,Electronics,Hyderabad,244.0,417.0,25.0,14.0,22265.71,Prime Logistics,5432833.24,9.76,350.0,High Risk
+1436,Projector,Electronics,Noida,33.0,8.0,4.0,2.0,40073.94,Delta Wholesale,1322440.02,8.25,8.0,Low Risk
+1437,Microphone,Accessories,Pune,411.0,153.0,23.0,9.0,1706.21,Metro Components,701252.31,17.869565217391305,207.0,Low Risk
+1438,Power Bank,Accessories,Bengaluru,264.0,97.0,26.0,4.0,1603.77,Crown Distributors,423395.27999999997,10.153846153846153,104.0,Low Risk
+1439,Smart Watch,Electronics,Noida,31.0,488.0,32.0,14.0,5070.75,Delta Wholesale,157193.25,0.96875,448.0,High Risk
+1440,Barcode Scanner,Accessories,Delhi,137.0,120.0,9.0,11.0,4436.02,BlueStar Supplies,607734.7400000001,15.222222222222221,99.0,Medium Risk
+1441,Pen Drive,Accessories,Hyderabad,257.0,376.0,33.0,13.0,515.9,Evergreen Supply,132586.3,7.787878787878788,429.0,High Risk
+1442,Graphics Card,Computer Parts,Bengaluru,489.0,141.0,22.0,8.0,29819.62,Reliable Goods,14581794.18,22.227272727272727,176.0,Low Risk
+1443,Motherboard,Computer Parts,Pune,114.0,40.0,19.0,3.0,10096.13,Crown Distributors,1150958.8199999998,6.0,57.0,Low Risk
+1444,Cooling Fan,Computer Parts,Bengaluru,39.0,30.0,4.0,7.0,426.79,Crown Distributors,16644.81,9.75,28.0,Medium Risk
+1445,Network Adapter,Networking,Hyderabad,22.0,23.0,2.0,12.0,888.42,Prime Logistics,19545.239999999998,11.0,24.0,High Risk
+1446,HDMI Cable,Accessories,Pune,322.0,118.0,33.0,5.0,327.73,Delta Wholesale,105529.06000000001,9.757575757575758,165.0,Low Risk
+1447,Office Chair,Office Supplies,Pune,18.0,24.0,11.0,3.0,5793.9,Evergreen Supply,104290.2,1.6363636363636365,33.0,High Risk
+1448,Packing Tape,Packaging,Bengaluru,32.0,70.0,11.0,7.0,88.15,Evergreen Supply,2820.8,2.909090909090909,77.0,High Risk
+1449,Shipping Box,Packaging,Bengaluru,102.0,33.0,10.0,5.0,43.64,Crown Distributors,4451.28,10.2,50.0,Low Risk
+1450,Thermal Paper,Office Supplies,Noida,82.0,166.0,23.0,11.0,112.75,Delta Wholesale,9245.5,3.5652173913043477,253.0,High Risk
+1451,Laptop,Electronics,Noida,1.0,95.0,12.0,7.0,52379.91,BlueStar Supplies,52379.91,0.08333333333333333,84.0,High Risk
+1452,Wireless Mouse,Accessories,Hyderabad,4.0,60.0,21.0,3.0,625.79,Delta Wholesale,2503.16,0.19047619047619047,63.0,High Risk
+1453,Keyboard,Accessories,Hyderabad,195.0,87.0,26.0,3.0,973.88,Reliable Goods,189906.6,7.5,78.0,Low Risk
+1454,LED Monitor,Electronics,Bengaluru,240.0,86.0,21.0,5.0,13362.67,Metro Components,3207040.8,11.428571428571429,105.0,Low Risk
+1455,Laser Printer,Electronics,Delhi,309.0,173.0,10.0,14.0,9374.46,Reliable Goods,2896708.1399999997,30.9,140.0,Low Risk
+1456,USB Cable,Accessories,Mumbai,70.0,136.0,20.0,8.0,201.07,Apex Traders,14074.9,3.5,160.0,High Risk
+1457,External Hard Drive,Accessories,Mumbai,43.0,32.0,4.0,7.0,4776.73,BlueStar Supplies,205399.38999999998,10.75,28.0,Low Risk
+1458,RAM Module,Computer Parts,Pune,242.0,123.0,34.0,5.0,2498.76,Reliable Goods,604699.92,7.117647058823529,170.0,Medium Risk
+1459,Wi-Fi Router,Networking,Delhi,23.0,161.0,34.0,5.0,2552.36,Apex Traders,58704.280000000006,0.6764705882352942,170.0,High Risk
+1460,Headphones,Accessories,Hyderabad,530.0,433.0,32.0,11.0,1601.6,Evergreen Supply,848848.0,16.5625,352.0,Low Risk
+1461,Webcam,Accessories,Mumbai,125.0,298.0,25.0,13.0,2496.22,Prime Logistics,312027.5,5.0,325.0,High Risk
+1462,Bluetooth Speaker,Accessories,Pune,133.0,103.0,14.0,6.0,1941.99,Crown Distributors,258284.67,9.5,84.0,Low Risk
+1463,SSD Drive,Computer Parts,Mumbai,27.0,14.0,8.0,2.0,6467.89,Delta Wholesale,174633.03,3.375,16.0,Low Risk
+1464,Mobile Charger,Accessories,Noida,113.0,45.0,7.0,8.0,820.46,Crown Distributors,92711.98000000001,16.142857142857142,56.0,Low Risk
+1465,Tablet,Electronics,Noida,258.0,122.0,12.0,11.0,23861.85,Apex Traders,6156357.3,21.5,132.0,Low Risk
+1466,Projector,Electronics,Pune,64.0,119.0,20.0,5.0,37527.21,Apex Traders,2401741.44,3.2,100.0,High Risk
+1467,Microphone,Accessories,Mumbai,457.0,115.0,20.0,8.0,2012.68,Crown Distributors,919794.76,22.85,160.0,Low Risk
+1468,Power Bank,Accessories,Delhi,72.0,36.0,6.0,5.0,1640.91,Metro Components,118145.52,12.0,30.0,Low Risk
+1469,Smart Watch,Electronics,Noida,241.0,205.0,15.0,11.0,5054.97,Apex Traders,1218247.77,16.066666666666666,165.0,Medium Risk
+1470,Barcode Scanner,Accessories,Noida,364.0,172.0,19.0,12.0,4314.01,Apex Traders,1570299.6400000001,19.157894736842106,228.0,Low Risk
+1471,Pen Drive,Accessories,Delhi,43.0,45.0,4.0,14.0,498.29,Prime Logistics,21426.47,10.75,56.0,High Risk
+1472,Graphics Card,Computer Parts,Mumbai,44.0,36.0,9.0,6.0,26990.79,BlueStar Supplies,1187594.76,4.888888888888889,54.0,High Risk
+1473,Motherboard,Computer Parts,Noida,564.0,169.0,32.0,6.0,10066.37,Crown Distributors,5677432.680000001,17.625,192.0,Low Risk
+1474,Cooling Fan,Computer Parts,Bengaluru,2.0,27.0,4.0,9.0,477.72,Reliable Goods,955.44,0.5,36.0,High Risk
+1475,Network Adapter,Networking,Bengaluru,436.0,173.0,13.0,14.0,859.95,Apex Traders,374938.2,33.53846153846154,182.0,Low Risk
+1476,HDMI Cable,Accessories,Mumbai,123.0,62.0,27.0,2.0,328.48,Delta Wholesale,40403.04,4.555555555555555,54.0,Low Risk
+1477,Office Chair,Office Supplies,Mumbai,151.0,74.0,6.0,11.0,7169.62,Delta Wholesale,1082612.6199999999,25.166666666666668,66.0,Low Risk
+1478,Packing Tape,Packaging,Mumbai,208.0,77.0,5.0,14.0,81.21,Metro Components,16891.68,41.6,70.0,Low Risk
+1479,Shipping Box,Packaging,Pune,29.0,13.0,6.0,2.0,46.11,Evergreen Supply,1337.19,4.833333333333333,12.0,Low Risk
+1480,Thermal Paper,Office Supplies,Hyderabad,52.0,146.0,30.0,6.0,117.53,Apex Traders,6111.56,1.7333333333333334,180.0,High Risk
+1481,Laptop,Electronics,Noida,469.0,130.0,23.0,7.0,51065.28,Apex Traders,23949616.32,20.391304347826086,161.0,Low Risk
+1482,Wireless Mouse,Accessories,Pune,100.0,147.0,31.0,4.0,638.45,Crown Distributors,63845.00000000001,3.225806451612903,124.0,High Risk
+1483,Keyboard,Accessories,Mumbai,291.0,187.0,26.0,8.0,1100.71,Apex Traders,320306.61,11.192307692307692,208.0,Medium Risk
+1484,LED Monitor,Electronics,Noida,81.0,76.0,7.0,11.0,12240.22,Prime Logistics,991457.82,11.571428571428571,77.0,Medium Risk
+1485,Laser Printer,Electronics,Pune,3.0,203.0,33.0,5.0,10566.11,Evergreen Supply,31698.33,0.09090909090909091,165.0,High Risk
+1486,USB Cable,Accessories,Mumbai,49.0,112.0,29.0,4.0,165.74,Prime Logistics,8121.26,1.6896551724137931,116.0,High Risk
+1487,External Hard Drive,Accessories,Hyderabad,53.0,87.0,12.0,9.0,4356.69,Crown Distributors,230904.56999999998,4.416666666666667,108.0,High Risk
+1488,RAM Module,Computer Parts,Mumbai,259.0,82.0,20.0,6.0,2865.76,Prime Logistics,742231.8400000001,12.95,120.0,Low Risk
+1489,Wi-Fi Router,Networking,Mumbai,11.0,3.0,2.0,2.0,2701.66,Delta Wholesale,29718.26,5.5,4.0,Low Risk
+1490,Headphones,Accessories,Mumbai,98.0,41.0,5.0,7.0,1571.88,Crown Distributors,154044.24000000002,19.6,35.0,Low Risk
+1491,Webcam,Accessories,Noida,66.0,48.0,5.0,9.0,2110.27,Metro Components,139277.82,13.2,45.0,Medium Risk
+1492,Bluetooth Speaker,Accessories,Mumbai,164.0,50.0,5.0,11.0,2287.76,Delta Wholesale,375192.64,32.8,55.0,Low Risk
+1493,SSD Drive,Computer Parts,Delhi,945.0,246.0,27.0,13.0,6839.29,Metro Components,6463129.05,35.0,351.0,Low Risk
+1494,Mobile Charger,Accessories,Pune,186.0,170.0,33.0,6.0,840.3,Delta Wholesale,156295.8,5.636363636363637,198.0,High Risk
+1495,Tablet,Electronics,Mumbai,123.0,57.0,12.0,4.0,23083.84,Evergreen Supply,2839312.32,10.25,48.0,Low Risk
+1496,Projector,Electronics,Bengaluru,4.0,37.0,4.0,9.0,37493.19,Metro Components,149972.76,1.0,36.0,High Risk
+1497,Microphone,Accessories,Pune,127.0,58.0,16.0,3.0,2071.58,Delta Wholesale,263090.66,7.9375,48.0,Low Risk
+1498,Power Bank,Accessories,Noida,74.0,67.0,6.0,13.0,1614.27,Crown Distributors,119455.98,12.333333333333334,78.0,High Risk
+1499,Smart Watch,Electronics,Mumbai,94.0,50.0,29.0,2.0,5349.42,BlueStar Supplies,502845.48,3.2413793103448274,58.0,Low Risk
+1500,Barcode Scanner,Accessories,Mumbai,69.0,90.0,8.0,11.0,4087.26,Crown Distributors,282020.94,8.625,88.0,High Risk
+1501,Pen Drive,Accessories,Noida,9.0,213.0,24.0,8.0,561.55,Crown Distributors,5053.95,0.375,192.0,High Risk
+1502,Graphics Card,Computer Parts,Noida,258.0,197.0,33.0,5.0,30508.72,Apex Traders,7871249.760000001,7.818181818181818,165.0,Low Risk
+1503,Motherboard,Computer Parts,Hyderabad,282.0,187.0,25.0,7.0,10395.11,Apex Traders,2931421.02,11.28,175.0,Low Risk
+1504,Cooling Fan,Computer Parts,Delhi,59.0,25.0,5.0,7.0,477.16,Evergreen Supply,28152.440000000002,11.8,35.0,Low Risk
+1505,Network Adapter,Networking,Bengaluru,78.0,51.0,4.0,11.0,924.29,Delta Wholesale,72094.62,19.5,44.0,Low Risk
+1506,HDMI Cable,Accessories,Delhi,591.0,274.0,26.0,9.0,266.62,Evergreen Supply,157572.42,22.73076923076923,234.0,Low Risk
+1507,Office Chair,Office Supplies,Bengaluru,225.0,116.0,25.0,4.0,6375.55,Apex Traders,1434498.75,9.0,100.0,Low Risk
+1508,Packing Tape,Packaging,Pune,105.0,111.0,8.0,13.0,83.61,Apex Traders,8779.05,13.125,104.0,Medium Risk
+1509,Shipping Box,Packaging,Mumbai,58.0,259.0,18.0,13.0,42.76,BlueStar Supplies,2480.08,3.2222222222222223,234.0,High Risk
+1510,Thermal Paper,Office Supplies,Bengaluru,288.0,138.0,34.0,4.0,114.46,Crown Distributors,32964.479999999996,8.470588235294118,136.0,Low Risk
+1511,Laptop,Electronics,Delhi,88.0,52.0,24.0,2.0,45820.62,Reliable Goods,4032214.56,3.6666666666666665,48.0,Low Risk
+1512,Wireless Mouse,Accessories,Mumbai,1036.0,401.0,26.0,14.0,645.58,Delta Wholesale,668820.88,39.84615384615385,364.0,Low Risk
+1513,Keyboard,Accessories,Bengaluru,495.0,177.0,30.0,7.0,1081.82,Crown Distributors,535500.9,16.5,210.0,Low Risk
+1514,LED Monitor,Electronics,Noida,565.0,261.0,21.0,10.0,11236.23,Delta Wholesale,6348469.95,26.904761904761905,210.0,Low Risk
+1515,Laser Printer,Electronics,Mumbai,5.0,6.0,2.0,4.0,8757.94,Apex Traders,43789.700000000004,2.5,8.0,High Risk
+1516,USB Cable,Accessories,Hyderabad,482.0,389.0,27.0,12.0,159.81,Apex Traders,77028.42,17.85185185185185,324.0,Medium Risk
+1517,External Hard Drive,Accessories,Mumbai,12.0,9.0,2.0,7.0,5359.91,Crown Distributors,64318.92,6.0,14.0,High Risk
+1518,RAM Module,Computer Parts,Pune,14.0,23.0,8.0,3.0,2798.65,Evergreen Supply,39181.1,1.75,24.0,High Risk
+1519,Wi-Fi Router,Networking,Delhi,38.0,48.0,7.0,6.0,2555.32,Apex Traders,97102.16,5.428571428571429,42.0,High Risk
+1520,Headphones,Accessories,Bengaluru,250.0,83.0,24.0,4.0,1727.64,Apex Traders,431910.0,10.416666666666666,96.0,Low Risk
+1521,Webcam,Accessories,Pune,74.0,33.0,12.0,4.0,2183.01,Apex Traders,161542.74000000002,6.166666666666667,48.0,Low Risk
+1522,Bluetooth Speaker,Accessories,Delhi,9.0,58.0,25.0,2.0,2269.11,Apex Traders,20421.99,0.36,50.0,High Risk
+1523,SSD Drive,Computer Parts,Hyderabad,35.0,15.0,11.0,2.0,5805.24,Delta Wholesale,203183.4,3.1818181818181817,22.0,Low Risk
+1524,Mobile Charger,Accessories,Delhi,281.0,248.0,20.0,11.0,847.74,Evergreen Supply,238214.94,14.05,220.0,Medium Risk
+1525,Tablet,Electronics,Pune,744.0,321.0,31.0,14.0,19633.24,Crown Distributors,14607130.56,24.0,434.0,Low Risk
+1526,Projector,Electronics,Pune,135.0,53.0,17.0,3.0,40733.61,Crown Distributors,5499037.35,7.9411764705882355,51.0,Low Risk
+1527,Microphone,Accessories,Bengaluru,213.0,176.0,29.0,7.0,1882.78,Delta Wholesale,401032.14,7.344827586206897,203.0,Medium Risk
+1528,Power Bank,Accessories,Delhi,120.0,105.0,12.0,11.0,1548.18,BlueStar Supplies,185781.6,10.0,132.0,High Risk
+1529,Smart Watch,Electronics,Delhi,627.0,368.0,28.0,13.0,5755.89,Reliable Goods,3608943.0300000003,22.392857142857142,364.0,Low Risk
+1530,Barcode Scanner,Accessories,Delhi,61.0,64.0,29.0,3.0,3704.69,Apex Traders,225986.09,2.103448275862069,87.0,High Risk
+1531,Pen Drive,Accessories,Delhi,97.0,150.0,11.0,11.0,582.75,Apex Traders,56526.75,8.818181818181818,121.0,High Risk
+1532,Graphics Card,Computer Parts,Bengaluru,92.0,57.0,4.0,13.0,27536.96,Apex Traders,2533400.32,23.0,52.0,Low Risk
+1533,Motherboard,Computer Parts,Mumbai,314.0,134.0,12.0,9.0,9717.52,Evergreen Supply,3051301.2800000003,26.166666666666668,108.0,Low Risk
+1534,Cooling Fan,Computer Parts,Pune,69.0,42.0,6.0,7.0,481.57,Prime Logistics,33228.33,11.5,42.0,Low Risk
+1535,Network Adapter,Networking,Mumbai,134.0,250.0,17.0,13.0,912.07,Metro Components,122217.38,7.882352941176471,221.0,High Risk
+1536,HDMI Cable,Accessories,Hyderabad,141.0,172.0,11.0,13.0,313.1,Reliable Goods,44147.100000000006,12.818181818181818,143.0,High Risk
+1537,Office Chair,Office Supplies,Noida,347.0,122.0,18.0,7.0,5887.37,Delta Wholesale,2042917.39,19.27777777777778,126.0,Low Risk
+1538,Packing Tape,Packaging,Pune,199.0,86.0,9.0,14.0,99.32,Apex Traders,19764.68,22.11111111111111,126.0,Low Risk
+1539,Shipping Box,Packaging,Delhi,50.0,22.0,5.0,4.0,49.32,Reliable Goods,2466.0,10.0,20.0,Low Risk
+1540,Thermal Paper,Office Supplies,Mumbai,15.0,79.0,25.0,3.0,123.79,Prime Logistics,1856.8500000000001,0.6,75.0,High Risk
+1541,Laptop,Electronics,Bengaluru,94.0,38.0,3.0,12.0,49784.34,Reliable Goods,4679727.96,31.333333333333332,36.0,Low Risk
+1542,Wireless Mouse,Accessories,Noida,287.0,100.0,25.0,4.0,675.64,Delta Wholesale,193908.68,11.48,100.0,Low Risk
+1543,Keyboard,Accessories,Delhi,394.0,329.0,24.0,11.0,1021.43,Metro Components,402443.42,16.416666666666668,264.0,Medium Risk
+1544,LED Monitor,Electronics,Noida,164.0,113.0,19.0,6.0,11147.22,Delta Wholesale,1828144.0799999998,8.631578947368421,114.0,Medium Risk
+1545,Laser Printer,Electronics,Bengaluru,279.0,270.0,30.0,9.0,10002.09,BlueStar Supplies,2790583.11,9.3,270.0,Medium Risk
+1546,USB Cable,Accessories,Delhi,272.0,117.0,23.0,5.0,181.62,Evergreen Supply,49400.64,11.826086956521738,115.0,Low Risk
+1547,External Hard Drive,Accessories,Bengaluru,205.0,65.0,27.0,3.0,5229.68,Evergreen Supply,1072084.4000000001,7.592592592592593,81.0,Low Risk
+1548,RAM Module,Computer Parts,Delhi,39.0,144.0,24.0,6.0,2613.01,Metro Components,101907.39000000001,1.625,144.0,High Risk
+1549,Wi-Fi Router,Networking,Bengaluru,1072.0,374.0,31.0,12.0,2499.28,Metro Components,2679228.16,34.58064516129032,372.0,Low Risk
+1550,Headphones,Accessories,Mumbai,497.0,208.0,16.0,12.0,1708.06,Crown Distributors,848905.82,31.0625,192.0,Low Risk
+1552,Bluetooth Speaker,Accessories,Mumbai,300.0,156.0,33.0,6.0,1901.3,Crown Distributors,570390.0,9.090909090909092,198.0,Low Risk
+1553,SSD Drive,Computer Parts,Pune,90.0,31.0,3.0,12.0,6650.43,Evergreen Supply,598538.7000000001,30.0,36.0,Low Risk
+1554,Mobile Charger,Accessories,Mumbai,127.0,85.0,5.0,14.0,830.04,Apex Traders,105415.08,25.4,70.0,Low Risk
+1555,Tablet,Electronics,Bengaluru,899.0,545.0,33.0,14.0,22275.9,Metro Components,20026034.1,27.242424242424242,462.0,Low Risk
+1556,Projector,Electronics,Bengaluru,216.0,83.0,8.0,11.0,34637.1,Metro Components,7481613.6,27.0,88.0,Low Risk
+1557,Microphone,Accessories,Mumbai,812.0,433.0,27.0,14.0,1696.32,Evergreen Supply,1377411.8399999999,30.074074074074073,378.0,Low Risk
+1558,Power Bank,Accessories,Hyderabad,927.0,319.0,33.0,10.0,1654.65,Delta Wholesale,1533860.55,28.09090909090909,330.0,Low Risk
+1559,Smart Watch,Electronics,Delhi,128.0,121.0,24.0,7.0,5147.21,Crown Distributors,658842.88,5.333333333333333,168.0,High Risk
+1560,Barcode Scanner,Accessories,Hyderabad,76.0,136.0,29.0,6.0,4249.0,BlueStar Supplies,322924.0,2.6206896551724137,174.0,High Risk
+1561,Pen Drive,Accessories,Noida,126.0,51.0,13.0,4.0,566.65,Crown Distributors,71397.9,9.692307692307692,52.0,Low Risk
+1562,Graphics Card,Computer Parts,Hyderabad,101.0,268.0,32.0,7.0,31253.03,Prime Logistics,3156556.03,3.15625,224.0,High Risk
+1563,Motherboard,Computer Parts,Bengaluru,184.0,102.0,10.0,10.0,10980.05,Evergreen Supply,2020329.2,18.4,100.0,Low Risk
+1564,Cooling Fan,Computer Parts,Delhi,38.0,4.0,2.0,2.0,480.4,Delta Wholesale,18255.2,19.0,4.0,Low Risk
+1565,Network Adapter,Networking,Bengaluru,22.0,22.0,12.0,2.0,886.39,Evergreen Supply,19500.579999999998,1.8333333333333333,24.0,High Risk
+1566,HDMI Cable,Accessories,Delhi,116.0,150.0,13.0,12.0,291.02,Reliable Goods,33758.32,8.923076923076923,156.0,High Risk
+1567,Office Chair,Office Supplies,Mumbai,180.0,53.0,16.0,4.0,6567.56,BlueStar Supplies,1182160.8,11.25,64.0,Low Risk
+1568,Packing Tape,Packaging,Bengaluru,104.0,65.0,18.0,3.0,85.36,Metro Components,8877.44,5.777777777777778,54.0,Low Risk
+1569,Shipping Box,Packaging,Noida,52.0,54.0,34.0,2.0,39.93,Prime Logistics,2076.36,1.5294117647058822,68.0,High Risk
+1570,Thermal Paper,Office Supplies,Pune,402.0,217.0,22.0,9.0,120.48,Evergreen Supply,48432.96,18.272727272727273,198.0,Low Risk
+1571,Laptop,Electronics,Delhi,182.0,56.0,12.0,7.0,53934.35,Apex Traders,9816051.7,15.166666666666666,84.0,Low Risk
+1572,Wireless Mouse,Accessories,Noida,9.0,200.0,34.0,6.0,689.16,Prime Logistics,6202.44,0.2647058823529412,204.0,High Risk
+1573,Keyboard,Accessories,Pune,98.0,128.0,14.0,9.0,1194.77,Reliable Goods,117087.45999999999,7.0,126.0,High Risk
+1574,LED Monitor,Electronics,Noida,50.0,11.0,6.0,3.0,13508.6,Apex Traders,675430.0,8.333333333333334,18.0,Low Risk
+1575,Laser Printer,Electronics,Noida,180.0,65.0,25.0,4.0,9122.34,BlueStar Supplies,1642021.2,7.2,100.0,Low Risk
+1577,External Hard Drive,Accessories,Mumbai,662.0,195.0,27.0,10.0,5276.14,Delta Wholesale,3492804.68,24.51851851851852,270.0,Low Risk
+1578,RAM Module,Computer Parts,Noida,29.0,29.0,4.0,6.0,3102.85,Delta Wholesale,89982.65,7.25,24.0,Medium Risk
+1579,Wi-Fi Router,Networking,Pune,613.0,267.0,29.0,10.0,2307.71,Apex Traders,1414626.23,21.137931034482758,290.0,Low Risk
+1580,Headphones,Accessories,Delhi,88.0,37.0,6.0,8.0,1767.75,Crown Distributors,155562.0,14.666666666666666,48.0,Low Risk
+1581,Webcam,Accessories,Noida,226.0,163.0,11.0,13.0,2450.64,Apex Traders,553844.64,20.545454545454547,143.0,Low Risk
+1582,Bluetooth Speaker,Accessories,Bengaluru,44.0,23.0,10.0,3.0,2281.89,Prime Logistics,100403.15999999999,4.4,30.0,Medium Risk
+1583,SSD Drive,Computer Parts,Hyderabad,1134.0,489.0,32.0,13.0,5795.76,Evergreen Supply,6572391.84,35.4375,416.0,Low Risk
+1584,Mobile Charger,Accessories,Noida,712.0,375.0,32.0,13.0,862.32,Crown Distributors,613971.8400000001,22.25,416.0,Low Risk
+1585,Tablet,Electronics,Delhi,44.0,11.0,3.0,5.0,21981.86,Prime Logistics,967201.8400000001,14.666666666666666,15.0,Low Risk
+1586,Projector,Electronics,Mumbai,527.0,268.0,31.0,9.0,38331.63,Delta Wholesale,20200769.009999998,17.0,279.0,Low Risk
+1587,Microphone,Accessories,Mumbai,99.0,100.0,22.0,4.0,1998.78,Prime Logistics,197879.22,4.5,88.0,Medium Risk
+1588,Power Bank,Accessories,Pune,651.0,441.0,27.0,14.0,1519.76,Reliable Goods,989363.76,24.11111111111111,378.0,Low Risk
+1589,Smart Watch,Electronics,Bengaluru,2.0,161.0,13.0,11.0,5957.17,Apex Traders,11914.34,0.15384615384615385,143.0,High Risk
+1590,Barcode Scanner,Accessories,Delhi,171.0,154.0,34.0,4.0,4446.54,Delta Wholesale,760358.34,5.029411764705882,136.0,Medium Risk
+1592,Graphics Card,Computer Parts,Bengaluru,136.0,47.0,9.0,6.0,27775.54,BlueStar Supplies,3777473.44,15.11111111111111,54.0,Low Risk
+1593,Motherboard,Computer Parts,Hyderabad,75.0,72.0,8.0,8.0,9416.69,Metro Components,706251.75,9.375,64.0,Medium Risk
+1594,Cooling Fan,Computer Parts,Mumbai,196.0,142.0,20.0,7.0,444.31,Delta Wholesale,87084.76,9.8,140.0,Medium Risk
+1595,Network Adapter,Networking,Bengaluru,97.0,143.0,18.0,8.0,893.98,Prime Logistics,86716.06,5.388888888888889,144.0,High Risk
+1596,HDMI Cable,Accessories,Bengaluru,688.0,263.0,28.0,11.0,321.64,Prime Logistics,221288.31999999998,24.571428571428573,308.0,Low Risk
+1597,Office Chair,Office Supplies,Mumbai,65.0,32.0,11.0,3.0,6873.11,Crown Distributors,446752.14999999997,5.909090909090909,33.0,Low Risk
+1598,Packing Tape,Packaging,Delhi,199.0,79.0,9.0,11.0,90.24,Reliable Goods,17957.76,22.11111111111111,99.0,Low Risk
+1599,Shipping Box,Packaging,Hyderabad,59.0,98.0,14.0,6.0,49.05,BlueStar Supplies,2893.95,4.214285714285714,84.0,High Risk
+1600,Thermal Paper,Office Supplies,Hyderabad,206.0,56.0,7.0,12.0,116.93,Prime Logistics,24087.58,29.428571428571427,84.0,Low Risk
